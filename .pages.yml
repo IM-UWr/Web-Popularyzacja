@@ -1,0 +1,88 @@
+# Pages CMS — Web-Popularyzacja: Popularyzacja matematyki.
+# Wygenerowane przy migracji z Avean/IM-Website-test; pola „Opublikowany” usunięte (bez wersji roboczych).
+media:
+  input: public/pliki
+  output: /pliki
+  rename: safe
+settings:
+  commit:
+    identity: user
+content:
+- name: popularyzacja
+  label: Popularyzacja (strona /popularyzacja)
+  type: file
+  path: src/data/popularyzacja.json
+  format: json
+  fields:
+  - name: tytul
+    label: Tytuł strony
+    type: string
+    required: true
+  - name: tytul_en
+    label: 'EN: tytuł'
+    type: string
+  - name: wstep
+    label: Tekst pod tytułem
+    type: text
+  - name: wstep_en
+    label: 'EN: tekst pod tytułem'
+    type: text
+  - name: grupy
+    label: Grupy (sekcje strony, np. Dla uczniów)
+    type: object
+    list: true
+    fields:
+    - name: nazwa
+      label: Nazwa grupy
+      type: string
+      required: true
+    - name: nazwa_en
+      label: 'EN: nazwa grupy'
+      type: string
+    - name: opis
+      label: Jedno zdanie pod nazwą grupy (opcjonalnie)
+      type: string
+    - name: opis_en
+      label: 'EN: zdanie pod nazwą'
+      type: string
+    - name: pozycje
+      label: Inicjatywy (karty)
+      type: object
+      list: true
+      fields:
+      - name: nazwa
+        label: Nazwa
+        type: string
+        required: true
+      - name: opis
+        label: Opis (2–3 zdania)
+        type: text
+      - name: dla
+        label: Dla kogo (np. uczniowie szkół średnich)
+        type: string
+      - name: adres
+        label: Adres strony (https://… albo /ścieżka na naszej stronie)
+        type: string
+      - name: przycisk
+        label: Napis przycisku (np. Strona olimpiady)
+        type: string
+      - name: zdjecie
+        label: Zdjęcie (opcjonalnie, poziome)
+        type: image
+        options:
+          path: public/pliki/popularyzacja
+      - name: archiwalne
+        label: Archiwum (inicjatywa zakończona — plakietka „archiwum”)
+        type: boolean
+      - name: nazwa_en
+        label: 'EN: nazwa'
+        type: string
+      - name: opis_en
+        label: 'EN: opis'
+        type: text
+      - name: dla_en
+        label: 'EN: dla kogo'
+        type: string
+      - name: przycisk_en
+        label: 'EN: napis przycisku'
+        type: string
