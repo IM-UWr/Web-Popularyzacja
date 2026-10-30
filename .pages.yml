@@ -27,8 +27,24 @@ content:
   - name: wstep_en
     label: 'EN: tekst pod tytułem'
     type: text
+  - name: linki
+    label: Linki nad sekcjami (np. Fundacja, Portal, PTM)
+    type: object
+    list: true
+    fields:
+    - name: nazwa
+      label: Nazwa
+      type: string
+      required: true
+    - name: nazwa_en
+      label: 'EN: nazwa'
+      type: string
+    - name: adres
+      label: Adres strony (https://… albo /ścieżka na naszej stronie)
+      type: string
+      required: true
   - name: grupy
-    label: Grupy (sekcje strony, np. Dla uczniów)
+    label: Grupy (sekcje strony, np. Dla uczniów; bez kart pokazują „To be announced”)
     type: object
     list: true
     fields:
