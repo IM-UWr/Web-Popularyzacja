@@ -27,6 +27,52 @@ content:
   - name: wstep_en
     label: 'EN: tekst pod tytułem'
     type: text
+  - name: haslo
+    label: Hasło (okładka, baner działu, menu telefonu)
+    type: string
+  - name: haslo_en
+    label: 'EN: hasło'
+    type: string
+  - name: o_popularyzacji
+    label: O popularyzacji (akapity oddzielone pustą linią)
+    type: text
+  - name: o_popularyzacji_en
+    label: 'EN: o popularyzacji (akapity oddzielone pustą linią)'
+    type: text
+  - name: o_popularyzacji_fakty
+    label: W skrócie (obok tekstu „O popularyzacji”)
+    type: object
+    list: true
+    fields:
+    - name: wartosc
+      label: Wartość (np. 4 miasta)
+      type: string
+      required: true
+    - name: wartosc_en
+      label: 'EN: wartość'
+      type: string
+    - name: opis
+      label: Opis
+      type: string
+    - name: opis_en
+      label: 'EN: opis'
+      type: string
+  - name: tradycja
+    label: Lata tradycji (liczby w banerze; liczba lat liczona przy budowie strony)
+    type: object
+    list: true
+    fields:
+    - name: rok
+      label: Rok założenia
+      type: number
+      required: true
+    - name: nazwa
+      label: Nazwa w dopełniaczu (np. Zimowych Szkół → „37 lat Zimowych Szkół”)
+      type: string
+      required: true
+    - name: nazwa_en
+      label: 'EN: nazwa (np. Winter Schools → „37 years of Winter Schools”)'
+      type: string
   - name: linki
     label: Linki nad sekcjami (np. Fundacja, Portal, PTM)
     type: object
@@ -43,62 +89,57 @@ content:
       label: Adres strony (https://… albo /ścieżka na naszej stronie)
       type: string
       required: true
-  - name: grupy
-    label: Grupy (sekcje strony, np. Dla uczniów; bez kart pokazują „To be announced”)
-    type: object
-    list: true
+- name: strony
+  label: Strony Popularyzacji
+  description: Adres strony = ścieżka pliku, np. popularyzacja/uczniowie.md → /popularyzacja/uczniowie. Strona z tego katalogu sama dostaje kartę „Dla kogo” na stronie działu; do menu dopisz ją w repozytorium Web-Ustawienia.
+  type: collection
+  path: src/content/strony/popularyzacja
+  format: yaml-frontmatter
+  subfolders: true
+  filename: '{primary}.md'
+  view:
     fields:
-    - name: nazwa
-      label: Nazwa grupy
-      type: string
-      required: true
-    - name: nazwa_en
-      label: 'EN: nazwa grupy'
-      type: string
-    - name: opis
-      label: Jedno zdanie pod nazwą grupy (opcjonalnie)
-      type: string
-    - name: opis_en
-      label: 'EN: zdanie pod nazwą'
-      type: string
-    - name: pozycje
-      label: Inicjatywy (karty)
-      type: object
-      list: true
-      fields:
-      - name: nazwa
-        label: Nazwa
-        type: string
-        required: true
-      - name: opis
-        label: Opis (2–3 zdania)
-        type: text
-      - name: dla
-        label: Dla kogo (np. uczniowie szkół średnich)
-        type: string
-      - name: adres
-        label: Adres strony (https://… albo /ścieżka na naszej stronie)
-        type: string
-      - name: przycisk
-        label: Napis przycisku (np. Strona olimpiady)
-        type: string
-      - name: zdjecie
-        label: Zdjęcie (opcjonalnie, poziome)
-        type: image
-        options:
-          path: public/pliki/popularyzacja
-      - name: archiwalne
-        label: Archiwum (inicjatywa zakończona — plakietka „archiwum”)
-        type: boolean
-      - name: nazwa_en
-        label: 'EN: nazwa'
-        type: string
-      - name: opis_en
-        label: 'EN: opis'
-        type: text
-      - name: dla_en
-        label: 'EN: dla kogo'
-        type: string
-      - name: przycisk_en
-        label: 'EN: napis przycisku'
-        type: string
+    - tytul
+    primary: tytul
+  fields:
+  - name: tytul
+    label: Tytuł (nazwa nad kartą „Dla kogo”)
+    type: string
+    required: true
+  - name: haslo
+    label: Hasło (baner strony, tytuł karty „Dla kogo”)
+    type: string
+  - name: opis
+    label: Opis (baner strony, zdanie na karcie „Dla kogo”)
+    type: text
+  - name: pasek_boczny
+    label: Prawy pasek (puste = spis „Na tej stronie”)
+    type: select
+    options:
+      values:
+      - oba
+      - spis
+      - menu
+      - brak
+  - name: bloki
+    label: 'Bloki wzorca: listy jako dwie kolumny, kontakty i etapy (opis w dok/latki/zlecenie-15)'
+    type: boolean
+  - name: body
+    label: Treść
+    type: rich-text
+    options:
+      format: markdown
+      input: public/pliki/popularyzacja
+      output: /pliki/popularyzacja
+  - name: tytul_en
+    label: 'EN: tytuł'
+    type: string
+  - name: haslo_en
+    label: 'EN: hasło'
+    type: string
+  - name: opis_en
+    label: 'EN: opis'
+    type: text
+  - name: tresc_en
+    label: 'EN: treść (Markdown; budowa list jak w polskiej treści)'
+    type: text
