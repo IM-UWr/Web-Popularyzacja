@@ -1,11 +1,13 @@
 ---
-tytul: "Dla uczniów"
-haslo: "Kółka, obozy i zawody"
-opis: "Kółka w soboty od 3. klasy, Zimowe Szkoły i Letni Obóz, kilkanaście konkursów w roku szkolnym."
+tytul: Dla uczniów
+haslo: Kółka, obozy i zawody test
+opis: Kółka w soboty od 3. klasy, Zimowe Szkoły i Letni Obóz, kilkanaście
+  konkursów w roku szkolnym.
 bloki: true
-tytul_en: "For pupils"
-haslo_en: "Circles, camps and competitions"
-opis_en: "Saturday maths circles from year 3, the Zimowe Szkoły and Letni Obóz camps, and over a dozen competitions during the school year."
+tytul_en: For pupils
+haslo_en: Circles, camps and competitions
+opis_en: Saturday maths circles from year 3, the Zimowe Szkoły and Letni Obóz
+  camps, and over a dozen competitions during the school year.
 tresc_en: |
   ## Mathematics after school
 
@@ -115,7 +117,6 @@ tresc_en: |
   >
   > You don’t need olympiad results to join circles and camps — curiosity is enough. The youngest groups start in year 3 of primary school. Registration, fees and scholarships are handled by Fundacja Matematyków Wrocławskich.
 ---
-
 ## Matematyka po lekcjach
 
 W soboty na kółkach, zimą i latem na obozach, kilka razy w roku na zawodach. Zajęcia prowadzą studenci, doktoranci i pracownicy Instytutu razem z Fundacją Matematyków Wrocławskich.
@@ -133,7 +134,6 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
   Gdzie: Instytut, pl. Grunwaldzki 2/4
 
   [Grupy i zapisy](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/k%C3%B3%C5%82ka-matematyczne/mi%C4%99dzyszkolne-k%C3%B3%C5%82ka-matematyczne)
-
 - **Szkoła ponadpodstawowa**
 
   Zadania olimpijskie i matematyka spoza programu, przygotowanie do Olimpiady Matematycznej.
@@ -153,7 +153,6 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
   Kiedy: zima
 
   [Zimowe Szkoły](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/zimowa-szko%C5%82a-matematyki/zimowe-szko%C5%82y-matematyki)
-
 - **Letni Obóz Naukowy**
 
   Od 2002 roku, na koniec roku szkolnego: od 4. klasy podstawówki do maturzystów.
@@ -161,7 +160,6 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
   Kiedy: czerwiec
 
   [Letni Obóz](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/letni-ob%C3%B3z-naukowy/letni-ob%C3%B3z-naukowy)
-
 - **Obóz przygotowawczy do OMJ**
 
   Dla uczniów 7–8 klasy: listopad i marzec (dla finalistów).
@@ -169,7 +167,6 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
   Kiedy: listopad, marzec
 
   [Obóz OMJ](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-omj/ob%C3%B3z-przygotowawczy-do-omj)
-
 - **Obóz Olimpiady Matematycznej**
 
   Dla licealistów przygotowujących się do Olimpiady Matematycznej.
@@ -178,8 +175,9 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
 
 ## Rok szkolny w skrócie: zawody i konkursy
 
+
 | Kiedy | Co | Dla kogo |
-| --- | --- | --- |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | wrzesień | [Wrocławski Maraton Matematyczny](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) (finał w Instytucie, Dolnośląski Festiwal Nauki) | SP 3 – liceum, też dorośli |
 | wrzesień | [Olimpiada Lingwistyki Matematycznej](https://olm.math.uni.wroc.pl/): etap szkolny | szkoły średnie |
 | początek października | [Matematyczne Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0) | SP 4 – liceum, rodziny |
@@ -189,6 +187,7 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
 | styczeń, luty | Zawody II stopnia [OMJ i OM](https://om.mimuw.edu.pl/) w Instytucie | uczestnicy olimpiad |
 | w ciągu roku | [Dolnośląskie Mecze Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/mecze-matematyczne/dolno%C5%9Bl%C4%85skie-mecze-matematyczne) · [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej) · [Origami „Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) · [KoALa](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/koala/konkurs-koala-kombinatoryka-algorytmikalogika) | różne kategorie wiekowe |
 | pierwsza sobota wakacji | [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths): charytatywny konkurs drużynowy w Instytucie | drużyny w każdym wieku |
+
 
 ## Wykłady: Wrocławskie Spotkania Matematyczne
 
@@ -206,20 +205,19 @@ Popularne wykłady w Instytucie w roku szkolnym, najczęściej w soboty. Dla ucz
 
 1. **Wybierz**
 
-   Kółko, jeśli chcesz regularnie; zawody albo obóz, jeśli wolisz raz, a porządnie.
-
+  Kółko, jeśli chcesz regularnie; zawody albo obóz, jeśli wolisz raz, a porządnie.
 2. **Zapisz się**
 
-   Zapisy są na stronach Fundacji Matematyków Wrocławskich; część zajęć jest bezpłatna, obozy i kółka są odpłatne.
+  Zapisy są na stronach Fundacji Matematyków Wrocławskich; część zajęć jest bezpłatna, obozy i kółka są odpłatne.
 
    [Fundacja Matematyków Wrocławskich](https://fmw.math.uni.wroc.pl/)
-
 3. **Przyjdź do Instytutu**
 
-   pl. Grunwaldzki 2/4, Wrocław. Kółka, wykłady i część zawodów odbywają się w salach Instytutu.
+  pl. Grunwaldzki 2/4, Wrocław. Kółka, wykłady i część zawodów odbywają się w salach Instytutu.
 
 ## Dla rodziców
 
 > **Warto wiedzieć**
 >
 > Na kółka i obozy nie trzeba mieć olimpijskich wyników — wystarczy ciekawość. Najmłodsze grupy zaczynają od 3. klasy szkoły podstawowej. Zapisy, opłaty i stypendia prowadzi Fundacja Matematyków Wrocławskich.
+
