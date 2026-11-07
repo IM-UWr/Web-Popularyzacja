@@ -51,7 +51,10 @@ content:
   - name: o_popularyzacji_fakty
     label: W skrócie (obok tekstu „O popularyzacji”)
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{wartosc} {opis}"
     fields:
     - name: wartosc
       label: Wartość (np. 4 miasta)
@@ -69,7 +72,10 @@ content:
   - name: tradycja
     label: Lata tradycji (liczby w banerze; liczba lat liczona przy budowie strony)
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{rok} {nazwa}"
     fields:
     - name: rok
       label: Rok założenia
@@ -91,7 +97,10 @@ content:
   - name: linki
     label: Linki (techniczne; strona ich nie wyświetla — grupy linków biorą się z menu działu)
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{nazwa}"
     hidden: true
     fields:
     - name: nazwa
