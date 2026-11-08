@@ -2,16 +2,21 @@
 tytul: "Organizatorzy"
 haslo: "Kto to robi"
 opis: "Fundacja Matematyków Wrocławskich, Portal, PTM i Pracownia Dydaktyki."
-bloki: true
+format_tresci: jawne
 tytul_en: "Organisers"
 haslo_en: "Who does it"
 opis_en: "Fundacja Matematyków Wrocławskich, the Portal, the PTM and the Laboratory of Mathematics Education."
-tresc_en: |
-  ## Who does it
+tresc_en: |-
+  <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
+
+  ## Who does it {#who-does-it}
 
   We run outreach at the Institute together with our partners. Each of them has its own website with dates and registration.
 
-  ## Partners
+  ## Partners {#partners}
+
+  <!-- Każdy punkt ma rolę kursywą, nazwę pogrubioną i własny opis. -->
+  :::kontakty
 
   - *since 2007*
 
@@ -37,7 +42,12 @@ tresc_en: |
 
     [PTM competition](https://ptm.math.uni.wroc.pl/konkurs/historia-konkursu)
 
-  ## At the Institute
+  :::
+
+  ## At the Institute {#at-the-institute}
+
+  <!-- Każdy punkt ma rolę kursywą, nazwę pogrubioną i własny opis. -->
+  :::kontakty
 
   - *laboratory*
 
@@ -47,16 +57,23 @@ tresc_en: |
 
     [Structure and departments →](/instytut/struktura)
 
-  ## Want to help?
+  :::
+
+  ## Want to help? {#want-to-help}
 
   Classes at circles and camps are also run by the Institute’s students and doctoral students. If you would like to teach, write to the Foundation.
 ---
 
-## Kto to robi
+<!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
+
+## Kto to robi {#kto-to-robi}
 
 Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma własną stronę z terminami i zapisami.
 
-## Partnerzy
+## Partnerzy {#partnerzy}
+
+<!-- Każdy punkt ma rolę kursywą, nazwę pogrubioną i własny opis. -->
+:::kontakty
 
 - *od 2007*
 
@@ -82,7 +99,12 @@ Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma wła
 
   [Konkurs PTM](https://ptm.math.uni.wroc.pl/konkurs/historia-konkursu)
 
-## W Instytucie
+:::
+
+## W Instytucie {#w-instytucie}
+
+<!-- Każdy punkt ma rolę kursywą, nazwę pogrubioną i własny opis. -->
+:::kontakty
 
 - *pracownia*
 
@@ -92,6 +114,8 @@ Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma wła
 
   [Struktura i zakłady →](/instytut/struktura)
 
-## Chcesz pomóc?
+:::
+
+## Chcesz pomóc? {#chcesz-pomóc}
 
 Zajęcia na kółkach i obozach prowadzą także studenci i doktoranci Instytutu. Jeśli chcesz uczyć — napisz do Fundacji.

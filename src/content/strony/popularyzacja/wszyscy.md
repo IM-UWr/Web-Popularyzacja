@@ -2,14 +2,19 @@
 tytul: "Dla wszystkich"
 haslo: "Wykłady, festiwal, zawody"
 opis: "Wrocławskie Spotkania, Dolnośląski Festiwal Nauki, zawody dla dorosłych i rodzin."
-bloki: true
+format_tresci: jawne
 tytul_en: "For everyone"
 haslo_en: "Lectures, festival, competitions"
 opis_en: "The Wrocławskie Spotkania lectures, the Dolnośląski Festiwal Nauki science festival, competitions for adults and families."
-tresc_en: |
-  ## Mathematics without exams
+tresc_en: |-
+  <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
+
+  ## Mathematics without exams {#mathematics-without-exams}
 
   Lectures, a festival and competitions for anyone who is curious — at any age, alone, with family or in a team.
+
+  <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+  :::kafelki
 
   - **Wrocławskie Spotkania Matematyczne (Wrocław Mathematical Meetings)**
 
@@ -41,7 +46,9 @@ tresc_en: |
 
     [City games](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/gry-miejskie/matematyczne-gry-miejskie-i-terenowe)
 
-  ## The year at a glance
+  :::
+
+  ## The year at a glance {#the-year-at-a-glance}
 
   | When | What | Who for |
   | --- | --- | --- |
@@ -51,7 +58,10 @@ tresc_en: |
   | during the year | [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej) (Polish Championship in Elementary Geometry), [origami „Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) (“Crane” origami) | Open and adult categories |
   | first Saturday of the summer holidays | [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths): charity team competition at the Institute | teams of any age |
 
-  ## Competitions for adults and families
+  ## Competitions for adults and families {#competitions-for-adults-and-families}
+
+  <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+  :::kafelki
 
   - **Marsze na Orientację (Orienteering Marches)**
 
@@ -77,7 +87,12 @@ tresc_en: |
 
     [Elementary Geometry](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej)
 
-  ## Further reading
+  :::
+
+  ## Further reading {#further-reading}
+
+  <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+  :::kafelki
 
   - **Wrocławski Portal Matematyczny (Wrocław Mathematical Portal)**
 
@@ -89,12 +104,24 @@ tresc_en: |
 
     Hugo Steinhaus’s book of 1938, in which drawings all but replace proofs.
 
-  [Events in the Institute calendar](/kalendarz)
+  :::
+
+  <!-- Każdy punkt listy zawiera odnośnik. -->
+  :::linki
+
+  - [Events in the Institute calendar](/kalendarz)
+
+  :::
 ---
 
-## Matematyka bez egzaminów
+<!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
+
+## Matematyka bez egzaminów {#matematyka-bez-egzaminów}
 
 Wykłady, festiwal i zawody dla każdego, kto jest ciekawy — w każdym wieku, sam, z rodziną albo z drużyną.
+
+<!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+:::kafelki
 
 - **Wrocławskie Spotkania Matematyczne**
 
@@ -126,7 +153,9 @@ Wykłady, festiwal i zawody dla każdego, kto jest ciekawy — w każdym wieku, 
 
   [Gry miejskie](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/gry-miejskie/matematyczne-gry-miejskie-i-terenowe)
 
-## Rok w skrócie
+:::
+
+## Rok w skrócie {#rok-w-skrócie}
 
 | Kiedy | Co | Dla kogo |
 | --- | --- | --- |
@@ -136,7 +165,10 @@ Wykłady, festiwal i zawody dla każdego, kto jest ciekawy — w każdym wieku, 
 | w ciągu roku | [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej), [origami „Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) | kategorie Open i dla dorosłych |
 | pierwsza sobota wakacji | [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths): charytatywny konkurs drużynowy w Instytucie | drużyny w każdym wieku |
 
-## Zawody, w których startują dorośli i rodziny
+## Zawody, w których startują dorośli i rodziny {#zawody-w-których-startują-dorośli-i-rodziny}
+
+<!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+:::kafelki
 
 - **Marsze na Orientację**
 
@@ -162,7 +194,12 @@ Wykłady, festiwal i zawody dla każdego, kto jest ciekawy — w każdym wieku, 
 
   [Geometria Elementarna](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej)
 
-## Do czytania
+:::
+
+## Do czytania {#do-czytania}
+
+<!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+:::kafelki
 
 - **Wrocławski Portal Matematyczny**
 
@@ -174,4 +211,11 @@ Wykłady, festiwal i zawody dla każdego, kto jest ciekawy — w każdym wieku, 
 
   Książka Hugona Steinhausa z 1938 roku, w której rysunki niemal zastępują dowody.
 
-[Wydarzenia w kalendarzu Instytutu](/kalendarz)
+:::
+
+<!-- Każdy punkt listy zawiera odnośnik. -->
+:::linki
+
+- [Wydarzenia w kalendarzu Instytutu](/kalendarz)
+
+:::

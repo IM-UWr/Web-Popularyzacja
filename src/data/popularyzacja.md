@@ -1,7 +1,10 @@
 ---
 tytul: Popularyzacja
 tytul_en: Outreach
+format_tresci: jawne
 tresc_en: |-
+  <!-- Zwykłe akapity Markdown. Pierwszy akapit wyróżnia szablon strony. -->
+
   A non-mathematician once asked Hugo Steinhaus what a mathematician actually does all day. Steinhaus picked up a stick and began drawing curves for him on a park path, and from that conversation — as he wrote in the preface — grew “Mathematical Snapshots” (“Kalejdoskop matematyczny”, 1938): a book in which drawings and photographs all but replace proofs, and whose first edition had red-and-green glasses waiting in a pocket for viewing its three-dimensional illustrations. Mathematicians from the Institute and their partners still talk about mathematics this way — in lecture rooms, at camps, and sometimes out in the field with a map and compass.
 
   The youngest can start with maths circles. The inter-school circles, run by Fundacja Matematyków Wrocławskich (the Wrocław Mathematicians Foundation) together with the Institute, meet on Saturdays, welcome children from the third year of primary school and prepare older pupils for the olympiads. Since 1989 the Institute’s students, doctoral students and staff have run Zimowe Szkoły Matematyki (Winter Schools of Mathematics) — residential camps for gifted young people from Lower Silesia and the Opole region, which end with Wielki Test Wiadomości (the Great Knowledge Test). Since the early 1990s the Institute’s lecture rooms have hosted Wrocławskie Spotkania Matematyczne (Wrocław Mathematical Meetings) — popular lectures during the school year, attended by pupils, teachers and students; similar meetings modelled on them have started in Legnica, Lubin, Wałbrzych and Poznań.
@@ -53,6 +56,8 @@ linki:
   nazwa_en: Polish Mathematical Society, Wrocław Branch
   adres: https://ptm.math.uni.wroc.pl/
 ---
+
+<!-- Zwykłe akapity Markdown. Pierwszy akapit wyróżnia szablon strony. -->
 
 Pewien niematematyk zapytał kiedyś Hugona Steinhausa, co właściwie matematyk robi przez cały dzień. Steinhaus wziął patyk i zaczął mu rysować krzywe na parkowej alejce, a z tej rozmowy — jak pisał we wstępie — wyrósł „Kalejdoskop matematyczny” (1938): książka, w której rysunki i zdjęcia niemal zastępują dowody, a w kieszeni pierwszego wydania czekały czerwono-zielone okulary do oglądania przestrzennych ilustracji. Matematycy z Instytutu i ich partnerzy wciąż tak opowiadają o matematyce — w salach wykładowych, na obozach, a czasem w terenie, z mapą i kompasem.
 

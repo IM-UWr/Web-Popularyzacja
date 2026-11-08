@@ -2,14 +2,19 @@
 tytul: "Dla nauczycieli"
 haslo: "Seminarium, studia, wyjazdy"
 opis: "Seminarium I³ co wtorek, studia podyplomowe, Poznajemy Matematyczną Europę."
-bloki: true
+format_tresci: jawne
 tytul_en: "For teachers"
 haslo_en: "Seminar, studies, trips"
 opis_en: "The I³ seminar every Tuesday, postgraduate studies, the Poznajemy Matematyczną Europę trips."
-tresc_en: |
-  ## For mathematics teachers
+tresc_en: |-
+  <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
+
+  ## For mathematics teachers {#for-mathematics-teachers}
 
   A weekly seminar, postgraduate studies, trips and courses — plus classes, competitions and camps worth sending your pupils to or attending with a whole class.
+
+  <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+  :::kafelki
 
   - **I³ seminar**
 
@@ -47,7 +52,9 @@ tresc_en: |
 
     [Training](https://fmw.math.uni.wroc.pl/dla-nauczycieli/szkolenia-dla-nauczycieli-matematyki)
 
-  ## A mathematics teacher’s school year
+  :::
+
+  ## A mathematics teacher’s school year {#a-mathematics-teachers-school-year}
 
   | When | What | Who for |
   | --- | --- | --- |
@@ -59,7 +66,10 @@ tresc_en: |
   | school breaks, summer holidays | [Poznajemy Matematyczną Europę](https://fmw.math.uni.wroc.pl/dla-nauczycieli/matematyczna-europa/poznajemy-matematyczn%C4%85-europ%C4%99) | teachers |
   | June – October | admissions to [postgraduate studies](https://www.math.uni.wroc.pl/kwalifikacyjne-studia-podyplomowe-nauczanie-matematyki) | applicants |
 
-  ## For your pupils
+  ## For your pupils {#for-your-pupils}
+
+  <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+  :::kafelki
 
   - **Maths circles**
 
@@ -83,19 +93,36 @@ tresc_en: |
 
     [Matematyka dla Myślących](http://www.math.uni.wroc.pl/matematyka-dla-myslacych)
 
-  [Everything for pupils](/popularyzacja/uczniowie)
+  :::
 
-  ## Future teachers
+  <!-- Każdy punkt listy zawiera odnośnik. -->
+  :::linki
+
+  - [Everything for pupils](/popularyzacja/uczniowie)
+
+  :::
+
+  ## Future teachers {#future-teachers}
 
   Pracownia Dydaktyki i Popularyzacji Matematyki (the Laboratory of Mathematics Education and Outreach) trains students in the teaching specialisation and supervises their school placements — gladly in cooperation with schools in the region.
 
+  <!-- Każdy punkt listy zawiera odnośnik. -->
+  :::linki
+
   - [Teaching specialisation](/studia/matematyka/matematyka-nauczycielska)
   - [Who runs outreach](/popularyzacja/organizatorzy)
+
+  :::
 ---
 
-## Dla nauczycieli matematyki
+<!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
+
+## Dla nauczycieli matematyki {#dla-nauczycieli-matematyki}
 
 Seminarium co tydzień, studia podyplomowe, wyjazdy i kursy — a do tego zajęcia, konkursy i obozy, na które warto wysłać uczniów albo przyjść z całą klasą.
+
+<!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+:::kafelki
 
 - **Seminarium I³**
 
@@ -133,7 +160,9 @@ Seminarium co tydzień, studia podyplomowe, wyjazdy i kursy — a do tego zajęc
 
   [Szkolenia](https://fmw.math.uni.wroc.pl/dla-nauczycieli/szkolenia-dla-nauczycieli-matematyki)
 
-## Rok szkolny nauczyciela matematyki
+:::
+
+## Rok szkolny nauczyciela matematyki {#rok-szkolny-nauczyciela-matematyki}
 
 | Kiedy | Co | Dla kogo |
 | --- | --- | --- |
@@ -145,7 +174,10 @@ Seminarium co tydzień, studia podyplomowe, wyjazdy i kursy — a do tego zajęc
 | ferie, wakacje | [Poznajemy Matematyczną Europę](https://fmw.math.uni.wroc.pl/dla-nauczycieli/matematyczna-europa/poznajemy-matematyczn%C4%85-europ%C4%99) | nauczyciele |
 | czerwiec – październik | nabór na [studia podyplomowe](https://www.math.uni.wroc.pl/kwalifikacyjne-studia-podyplomowe-nauczanie-matematyki) | kandydaci |
 
-## Dla Twoich uczniów
+## Dla Twoich uczniów {#dla-twoich-uczniów}
+
+<!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+:::kafelki
 
 - **Kółka matematyczne**
 
@@ -169,11 +201,23 @@ Seminarium co tydzień, studia podyplomowe, wyjazdy i kursy — a do tego zajęc
 
   [Matematyka dla Myślących](http://www.math.uni.wroc.pl/matematyka-dla-myslacych)
 
-[Wszystko dla uczniów](/popularyzacja/uczniowie)
+:::
 
-## Przyszli nauczyciele
+<!-- Każdy punkt listy zawiera odnośnik. -->
+:::linki
+
+- [Wszystko dla uczniów](/popularyzacja/uczniowie)
+
+:::
+
+## Przyszli nauczyciele {#przyszli-nauczyciele}
 
 Pracownia Dydaktyki i Popularyzacji Matematyki kształci studentów na specjalności nauczycielskiej i opiekuje się ich praktykami w szkołach — chętnie we współpracy ze szkołami z regionu.
 
+<!-- Każdy punkt listy zawiera odnośnik. -->
+:::linki
+
 - [Specjalność nauczycielska](/studia/matematyka/matematyka-nauczycielska)
 - [Kto prowadzi popularyzację](/popularyzacja/organizatorzy)
+
+:::
