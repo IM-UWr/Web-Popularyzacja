@@ -1,5 +1,4 @@
-# Pages CMS — Web-Popularyzacja: Popularyzacja matematyki.
-# Wygenerowane przy migracji z Avean/IM-Website-test; pola „Opublikowany” usunięte (bez wersji roboczych).
+# Pages CMS — formularze aktualnej strony Instytutu Matematycznego UWr.
 media:
   input: public/pliki
   output: /pliki
@@ -10,7 +9,8 @@ settings:
 content:
 - name: popularyzacja
   label: Strona działu Popularyzacja
-  description: 'Strona /popularyzacja: tytuł i tekst „O popularyzacji” (po polsku i po angielsku), niżej drobne pola — tekst pod tytułem, hasło, „W skrócie” i lata tradycji w banerze. Grupy linków nad tekstem biorą się z menu działu, a karty „Dla kogo” — ze „Stron Popularyzacji”.'
+  description: Tekst strony Popularyzacja, ramka W skrócie i lata tradycji. Linki pochodzą z menu, a karty odbiorców
+    z podstron tego działu.
   type: file
   path: src/data/popularyzacja.md
   format: yaml-frontmatter
@@ -19,15 +19,23 @@ content:
     label: Tytuł
     type: string
     required: true
+    description: Nazwa strony lub wpisu, widoczna także na odpowiednich listach i w wynikach wyszukiwania.
+  - name: status_publikacji
+    label: Status publikacji
+    type: select
+    required: true
+    default: oficjalna
+    description: Zapisuje wybór do przyszłej publikacji. Obecnie nie zmienia widoczności. Podgląd jest publiczny.
+    options:
+      values:
+      - name: oficjalna
+        label: Opublikowana — strona oficjalna i podgląd
+      - name: podglad
+        label: Tylko podgląd
   - name: body
     label: Treść
-    description: |-
-      Tekst sekcji „O popularyzacji”. Piszesz jak w zwykłym edytorze; akapity oddziela Enter, pierwszy akapit strona pokazuje większą czcionką. Kilka układów strona rozpoznaje sama:
-      • Punkt listy zaczynający się pogrubieniem = kafelek.
-      • Lista samych linków = lista plików (PDF / strona).
-      • Plik PDF: wgraj w „Media” i wklej link.
-      • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-      Kotwic ta strona nie ma: tekst to jedna sekcja z tytułem „O popularyzacji” (nagłówki nie są potrzebne), obok niej „W skrócie” (pole niżej).
+    description: Tekst strony. Nagłówek 2 tworzy sekcję; listy z pogrubionym początkiem tworzą bloki cech lub etapów,
+      a nagłówek 3 zakończony pytajnikiem — rozwijane pytanie.
     type: rich-text
     options:
       format: markdown
@@ -35,88 +43,85 @@ content:
   - name: tytul_en
     label: Tytuł EN
     type: string
+    description: Angielska wersja pola Tytuł; puste oznacza użycie wersji polskiej.
   - name: tresc_en
     label: Treść EN
-    description: Tekst „O popularyzacji” po angielsku, w tym samym układzie co Treść. Puste = strona angielska pokaże tekst polski.
+    description: Tekst strony po angielsku; puste oznacza wyświetlanie tekstu polskiego. Układ treści jest taki
+      sam jak w polskim opisie.
     type: rich-text
     options:
       format: markdown
       path: public/pliki/popularyzacja
   - name: wstep
-    label: Tekst pod tytułem
+    label: Opis do wyszukiwarek
     type: text
+    description: Opis strony do wyszukiwarek i udostępniania linków; nagłówek nowej strony nie pokazuje tego akapitu.
   - name: haslo
-    label: Hasło (okładka, baner działu, menu telefonu)
+    label: Hasło w nagłówku
     type: string
+    description: Krótkie hasło w nagłówku, widoczne razem z liczbami. Na okładce działu służy również jako podpis.
   - name: o_popularyzacji_fakty
     label: W skrócie (obok tekstu „O popularyzacji”)
     type: object
     list:
       collapsible:
         collapsed: true
-        summary: "{wartosc} {opis}"
+        summary: '{wartosc} {opis}'
     fields:
     - name: wartosc
       label: Wartość (np. 4 miasta)
       type: string
       required: true
+      description: Krótka wartość, np. 6 semestrów lub A+.
     - name: wartosc_en
       label: 'EN: wartość'
       type: string
+      description: Angielska wersja pola Wartość (np. 4 miasta); puste oznacza użycie wersji polskiej.
     - name: opis
       label: Opis
       type: string
+      description: Krótki opis używany na stronie lub w jej zapowiedzi.
     - name: opis_en
       label: 'EN: opis'
       type: string
+      description: Angielska wersja pola Opis; puste oznacza użycie wersji polskiej.
+    description: Wartości i opisy w ramce W skrócie przy tekście o popularyzacji.
   - name: tradycja
     label: Lata tradycji (liczby w banerze; liczba lat liczona przy budowie strony)
     type: object
     list:
       collapsible:
         collapsed: true
-        summary: "{rok} {nazwa}"
+        summary: '{rok} {nazwa}'
     fields:
     - name: rok
       label: Rok założenia
       type: number
       required: true
+      description: Rok lub krótki zapis lat wyświetlany przy pozycji.
     - name: nazwa
       label: Nazwa w dopełniaczu (np. Zimowych Szkół → „37 lat Zimowych Szkół”)
       type: string
       required: true
+      description: Nazwa wyświetlana na stronie i powiązanych listach.
     - name: nazwa_en
       label: 'EN: nazwa (np. Winter Schools → „37 years of Winter Schools”)'
       type: string
+      description: Angielska wersja pola Nazwa w dopełniaczu (np. Zimowych Szkół → „37 lat Zimowych Szkół”); puste
+        oznacza użycie wersji polskiej.
+    description: Rok rozpoczęcia i nazwa inicjatywy; strona sama oblicza liczbę lat.
   - name: wstep_en
-    label: 'EN: tekst pod tytułem'
+    label: Opis do wyszukiwarek EN
     type: text
+    description: Angielska wersja pola Opis do wyszukiwarek; puste oznacza użycie wersji polskiej.
   - name: haslo_en
     label: 'EN: hasło'
     type: string
-  - name: linki
-    label: Linki (techniczne; strona ich nie wyświetla — grupy linków biorą się z menu działu)
-    type: object
-    list:
-      collapsible:
-        collapsed: true
-        summary: "{nazwa}"
-    hidden: true
-    fields:
-    - name: nazwa
-      label: Nazwa
-      type: string
-      required: true
-    - name: nazwa_en
-      label: 'EN: nazwa'
-      type: string
-    - name: adres
-      label: Adres strony (https://… albo /ścieżka na naszej stronie)
-      type: string
-      required: true
+    description: Angielska wersja hasła; puste oznacza użycie wersji polskiej.
 - name: strony
   label: Strony Popularyzacji
-  description: Adres strony = ścieżka pliku, np. popularyzacja/uczniowie.md → /popularyzacja/uczniowie. Strona z tego katalogu sama dostaje kartę „Dla kogo” na stronie działu; do menu dopisz ją w repozytorium Web-Ustawienia.
+  description: Strony informacyjne oraz teksty stron z listami. Adres wynika ze ścieżki pliku; nie zmieniaj nazw
+    istniejących plików. Nowe strony nie są dopisywane do menu.
   type: collection
   path: src/content/strony/popularyzacja
   format: yaml-frontmatter
@@ -125,12 +130,26 @@ content:
   view:
     fields:
     - tytul
+    - status_publikacji
     primary: tytul
   fields:
   - name: tytul
     label: Tytuł (nazwa nad kartą „Dla kogo”)
     type: string
     required: true
+    description: Nazwa strony lub wpisu, widoczna także na odpowiednich listach i w wynikach wyszukiwania.
+  - name: status_publikacji
+    label: Status publikacji
+    type: select
+    required: true
+    default: oficjalna
+    description: Zapisuje wybór do przyszłej publikacji. Obecnie nie zmienia widoczności. Podgląd jest publiczny.
+    options:
+      values:
+      - name: oficjalna
+        label: Opublikowana — strona oficjalna i podgląd
+      - name: podglad
+        label: Tylko podgląd
   - name: body
     label: Treść
     type: rich-text
@@ -138,34 +157,16 @@ content:
       format: markdown
       input: public/pliki/popularyzacja
       output: /pliki/popularyzacja
-    description: |-
-      Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-
-      Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
-
-      • Punkt listy zaczynający się pogrubieniem = kafelek.
-
-      • Lista numerowana z pogrubionym początkiem = oś kroków.
-
-      • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-
-      • Lista samych linków = lista plików (PDF / strona).
-
-      • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-
-      • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
-
-      • Plik PDF: wgraj w „Media” i wklej link.
-
-      • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-
-      Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
+    description: Tekst strony; nagłówek 2 tworzy sekcję. Opcja Bloki włącza układy cech, etapów, kontaktów, plików
+      i pytań z list w tekście.
   - name: tytul_en
     label: Tytuł EN
     type: string
+    description: Angielska wersja pola Tytuł (nazwa nad kartą „Dla kogo”); puste oznacza użycie wersji polskiej.
   - name: tresc_en
     label: Treść EN
-    description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
+    description: Tekst strony po angielsku; puste oznacza wyświetlanie tekstu polskiego. Układ treści jest taki
+      sam jak w polskim opisie.
     type: rich-text
     options:
       format: markdown
@@ -174,15 +175,20 @@ content:
   - name: opis
     label: Opis (baner strony, zdanie na karcie „Dla kogo”)
     type: text
+    description: Opis strony do wyszukiwarek i udostępniania linku.
   - name: opis_en
     label: 'EN: opis'
     type: text
+    description: Angielska wersja pola Opis (baner strony, zdanie na karcie „Dla kogo”); puste oznacza użycie wersji
+      polskiej.
   - name: haslo
-    label: Hasło (baner strony, tytuł karty „Dla kogo”)
+    label: Hasło w nagłówku
     type: string
+    description: Krótkie hasło w nagłówku, widoczne razem z liczbami. Na okładce działu służy również jako podpis.
   - name: haslo_en
     label: 'EN: hasło'
     type: string
+    description: Angielskie hasło; puste pole nie zastępuje go polskim hasłem.
   - name: pasek_boczny
     label: Prawy pasek (puste = spis „Na tej stronie”)
     type: select
@@ -192,8 +198,16 @@ content:
       - spis
       - menu
       - brak
+    description: Spis sekcji jest widoczny przy opcji Spis lub Oba. Menu i Brak wyłączają spis; ta wersja strony
+      nie wyświetla bocznego menu działu.
   - name: bloki
     label: Kafelki, oś i kontakty z list — zob. ściągawka
     type: boolean
     default: false
-    description: 'Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy.'
+    description: 'Włącz, aby z list w tekście powstawały bloki treści: cechy, etapy, kontakty, pliki i pytania.'
+  - name: opublikowany
+    label: Dotychczasowe uwzględnianie w zestawieniach
+    type: boolean
+    hidden: true
+    default: true
+    description: Zachowuje dotychczasową widoczność w zestawieniach i indeksowanie. To osobna opcja od statusu publikacji.

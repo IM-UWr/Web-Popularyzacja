@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Dla nauczycieli"
 haslo: "Seminarium, studia, wyjazdy"
 opis: "Seminarium I³ co wtorek, studia podyplomowe, Poznajemy Matematyczną Europę."

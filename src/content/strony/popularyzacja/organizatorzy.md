@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Organizatorzy"
 haslo: "Kto to robi"
 opis: "Fundacja Matematyków Wrocławskich, Portal, PTM i Pracownia Dydaktyki."

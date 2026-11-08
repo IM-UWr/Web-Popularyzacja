@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Dla uczniów"
 haslo: "Kółka, obozy i zawody"
 opis: "Kółka w soboty od 3. klasy, Zimowe Szkoły i Letni Obóz, kilkanaście konkursów w roku szkolnym."

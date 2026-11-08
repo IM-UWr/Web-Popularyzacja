@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: Popularyzacja
 tytul_en: Outreach
 tresc_en: |-
@@ -42,16 +43,6 @@ tradycja:
 - rok: 2003
   nazwa: Marszy na Orientację
   nazwa_en: Orienteering Marches
-linki:
-- nazwa: Fundacja Matematyków Wrocławskich
-  nazwa_en: Wrocław Mathematicians Foundation
-  adres: https://fmw.math.uni.wroc.pl/
-- nazwa: Wrocławski Portal Matematyczny
-  nazwa_en: Wrocław Mathematical Portal
-  adres: https://www.matematyka.wroc.pl/
-- nazwa: Wrocławski Oddział PTM
-  nazwa_en: Polish Mathematical Society, Wrocław Branch
-  adres: https://ptm.math.uni.wroc.pl/
 ---
 
 Pewien niematematyk zapytał kiedyś Hugona Steinhausa, co właściwie matematyk robi przez cały dzień. Steinhaus wziął patyk i zaczął mu rysować krzywe na parkowej alejce, a z tej rozmowy — jak pisał we wstępie — wyrósł „Kalejdoskop matematyczny” (1938): książka, w której rysunki i zdjęcia niemal zastępują dowody, a w kieszeni pierwszego wydania czekały czerwono-zielone okulary do oglądania przestrzennych ilustracji. Matematycy z Instytutu i ich partnerzy wciąż tak opowiadają o matematyce — w salach wykładowych, na obozach, a czasem w terenie, z mapą i kompasem.
