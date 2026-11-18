@@ -1,12 +1,7 @@
 ---
-tytul: "Dla uczniów"
+tytul: Dla uczniów
+tytul_en: For pupils
 opublikowany: true
-haslo: "Kółka, obozy i zawody"
-opis: "Kółka w soboty od 3. klasy, Zimowe Szkoły i Letni Obóz, kilkanaście konkursów w roku szkolnym."
-format_tresci: jawne
-tytul_en: "For pupils"
-haslo_en: "Circles, camps and competitions"
-opis_en: "Saturday maths circles from year 3, the Zimowe Szkoły and Letni Obóz camps, and over a dozen competitions during the school year."
 tresc_en: |-
   <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
@@ -145,15 +140,21 @@ tresc_en: |-
   You don’t need olympiad results to join circles and camps — curiosity is enough. The youngest groups start in year 3 of primary school. Registration, fees and scholarships are handled by Fundacja Matematyków Wrocławskich.
 
   :::
+format_tresci: jawne
+opis: Kółka w soboty od 3. klasy, Zimowe Szkoły i Letni Obóz, kilkanaście
+  konkursów w roku szkolnym.
+opis_en: Saturday maths circles from year 3, the Zimowe Szkoły and Letni Obóz
+  camps, and over a dozen competitions during the school year.
+haslo: Kółka, obozy i zawody
+haslo_en: Circles, camps and competitions
 ---
-
 <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
 ## Matematyka po lekcjach {#matematyka-po-lekcjach}
 
 W soboty na kółkach, zimą i latem na obozach, kilka razy w roku na zawodach. Zajęcia prowadzą studenci, doktoranci i pracownicy Instytutu razem z Fundacją Matematyków Wrocławskich.
 
-## Regularnie: kółka matematyczne {#regularnie-kółka-matematyczne}
+## Kółka matematyczne {#kółka-matematyczne}
 
 Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykle co dwa tygodnie, po trzy godziny. Grupy według wieku i poziomu: od 3. klasy szkoły podstawowej do liceum, osobno grupy olimpijskie.
 
@@ -166,7 +167,7 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
 
   Klasy: 3–8
 
-  Gdzie: Instytut, pl. Grunwaldzki 2/4
+  Gdzie: Instytut, pl. Grunwaldzki 2
 
   [Grupy i zapisy](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/k%C3%B3%C5%82ka-matematyczne/mi%C4%99dzyszkolne-k%C3%B3%C5%82ka-matematyczne)
 
@@ -176,7 +177,7 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
 
   Klasy: licea i technika
 
-  Gdzie: Instytut, pl. Grunwaldzki 2/4
+  Gdzie: Instytut, pl. Grunwaldzki 2
 
   [Grupy i zapisy](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/k%C3%B3%C5%82ka-matematyczne/mi%C4%99dzyszkolne-k%C3%B3%C5%82ka-matematyczne)
 
@@ -189,7 +190,7 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
 
 - **Zimowe Szkoły Matematyki**
 
-  Od 1989 roku, zwykle w drugim tygodniu po feriach zimowych: wyjazd dla uzdolnionej młodzieży, na koniec Wielki Test Wiadomości.
+  Od 1989 roku, zwykle w drugim tygodniu po feriach zimowych: wyjazd dla uczniów szkół średnich z Dolnego Śląska zainteresowanych matematyką.
 
   Kiedy: zima
 
