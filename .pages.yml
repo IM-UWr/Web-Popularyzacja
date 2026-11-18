@@ -82,6 +82,10 @@ content:
     - name: opis_en
       label: 'Opis EN'
       type: string
+    - name: adres
+      label: Link (opcjonalnie)
+      description: "Strona, do której prowadzi wartość, np. /popularyzacja/uczniowie (wersja angielska sama prowadzi do /en/…). Puste = bez linku."
+      type: string
     - name: pozycja
       type: boolean
       hidden: true
