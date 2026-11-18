@@ -1,6 +1,7 @@
 # Pages CMS — Web-Popularyzacja: Popularyzacja matematyki.
 # Wygenerowane przy migracji z Avean/IM-Website-test; pola „Opublikowany” usunięte (bez wersji roboczych).
 # Zlecenie 33: pole „Opublikowane” wróciło w Stronach i na stronie działu (odznaczone = szkic, widoczny tylko na Podglądzie).
+# Zlecenie 40: tytuł EN pod tytułem i Treść na górze, pola EN pod polskimi, etykiety „… EN”, opis wstępu (tylko Google).
 media:
   input: public/pliki
   output: /pliki
@@ -20,6 +21,9 @@ content:
     label: Tytuł
     type: string
     required: true
+  - name: tytul_en
+    label: Tytuł EN
+    type: string
   - name: opublikowany
     label: Opublikowane — widoczne na stronie publicznej (na Podglądzie widać zawsze)
     description: Odznacz, żeby przygotować stronę bez pokazywania jej na stronie publicznej (szkic)
@@ -33,9 +37,6 @@ content:
     type: code
     options:
       format: markdown
-  - name: tytul_en
-    label: Tytuł EN
-    type: string
   - name: tresc_en
     label: Treść EN
     description: Tekst „O popularyzacji” po angielsku, według tych samych reguł Markdown co pole Treść. Gdy pole jest puste, strona angielska pokazuje tekst polski.
@@ -48,10 +49,17 @@ content:
     hidden: true
     default: jawne
   - name: wstep
-    label: Tekst pod tytułem
+    label: Opis strony dla Google (1–2 zdania)
+    description: Trafia do Google i do podglądu linku; na samej stronie się nie wyświetla. Np. „Kółka, obozy i konkursy dla uczniów…”. Puste = ogólny opis serwisu.
+    type: text
+  - name: wstep_en
+    label: 'Opis strony dla Google EN'
     type: text
   - name: haslo
     label: Hasło (okładka, baner działu, menu telefonu)
+    type: string
+  - name: haslo_en
+    label: 'Hasło EN'
     type: string
   - name: o_popularyzacji_fakty
     label: W skrócie (obok tekstu „O popularyzacji”)
@@ -66,13 +74,13 @@ content:
       type: string
       required: true
     - name: wartosc_en
-      label: 'EN: wartość'
+      label: 'Wartość EN'
       type: string
     - name: opis
       label: Opis
       type: string
     - name: opis_en
-      label: 'EN: opis'
+      label: 'Opis EN'
       type: string
     - name: pozycja
       type: boolean
@@ -94,17 +102,11 @@ content:
       type: string
       required: true
     - name: nazwa_en
-      label: 'EN: nazwa (np. Winter Schools → „37 years of Winter Schools”)'
+      label: 'Nazwa EN (np. Winter Schools → „37 years of Winter Schools”)'
       type: string
     - name: pozycja
       type: boolean
       hidden: true
-  - name: wstep_en
-    label: 'EN: tekst pod tytułem'
-    type: text
-  - name: haslo_en
-    label: 'EN: hasło'
-    type: string
   - name: linki
     label: Linki (techniczne; strona ich nie wyświetla — grupy linków biorą się z menu działu)
     type: object
@@ -119,7 +121,7 @@ content:
       type: string
       required: true
     - name: nazwa_en
-      label: 'EN: nazwa'
+      label: 'Nazwa EN'
       type: string
     - name: adres
       label: Adres strony (https://… albo /ścieżka na naszej stronie)
@@ -145,6 +147,9 @@ content:
     label: Tytuł (nazwa nad kartą „Dla kogo”)
     type: string
     required: true
+  - name: tytul_en
+    label: Tytuł EN
+    type: string
   - name: opublikowany
     label: Opublikowane — widoczne na stronie publicznej (na Podglądzie widać zawsze)
     description: Odznacz, żeby przygotować stronę bez pokazywania jej na stronie publicznej (szkic)
@@ -159,9 +164,6 @@ content:
       Oddziel akapity pustą linią. Nagłówek ## tworzy sekcję i pozycję w spisie „Na tej stronie”. Zachowaj {#id} przy istniejących nagłówkach, aby działały ich odnośniki.
       Zwykły tekst, listy i tabele zapisuj bez znaczników układu. Do specjalnych układów używaj :::kafelki, :::kontakty, :::linki, :::etapy i :::ramka{tytul="Tytuł"}. Każdy blok zamknij osobną linią ::: i zostaw pustą linię między znacznikiem a treścią.
       Komentarze <!-- ... --> zawierają wskazówki dla redaktorów. Szczegóły opisuje dok/jawny-markdown.md w Web-Core.
-  - name: tytul_en
-    label: Tytuł EN
-    type: string
   - name: tresc_en
     label: Treść EN
     description: Cała strona po angielsku, według tych samych reguł Markdown co pole Treść. Zachowaj identyfikatory angielskich sekcji. Gdy pole jest puste, strona angielska pokazuje tekst polski.
@@ -174,16 +176,18 @@ content:
     hidden: true
     default: jawne
   - name: opis
-    label: Opis (baner strony, zdanie na karcie „Dla kogo”)
+    label: Opis (zdanie na karcie „Dla kogo”)
+    description: Zdanie na karcie tej strony na stronie Popularyzacji; trafia też do Google i do podglądu linku. Na samej stronie się nie wyświetla.
     type: text
   - name: opis_en
-    label: 'EN: opis'
+    label: 'Opis EN'
     type: text
   - name: haslo
-    label: Hasło (baner strony, tytuł karty „Dla kogo”)
+    label: Hasło (tytuł karty „Dla kogo”)
+    description: Tytuł karty tej strony na stronie Popularyzacji; puste = tytuł strony. Na samej stronie się nie wyświetla.
     type: string
   - name: haslo_en
-    label: 'EN: hasło'
+    label: 'Hasło EN'
     type: string
   - name: pasek_boczny
     label: Prawy pasek (puste = spis „Na tej stronie”)
