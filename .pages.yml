@@ -68,6 +68,9 @@ content:
     - name: opis_en
       label: 'EN: opis'
       type: string
+    - name: pozycja
+      type: boolean
+      hidden: true
   - name: tradycja
     label: Lata tradycji (liczby w banerze; liczba lat liczona przy budowie strony)
     type: object
@@ -87,6 +90,9 @@ content:
     - name: nazwa_en
       label: 'EN: nazwa (np. Winter Schools → „37 years of Winter Schools”)'
       type: string
+    - name: pozycja
+      type: boolean
+      hidden: true
   - name: wstep_en
     label: 'EN: tekst pod tytułem'
     type: text
@@ -113,6 +119,9 @@ content:
       label: Adres strony (https://… albo /ścieżka na naszej stronie)
       type: string
       required: true
+    - name: pozycja
+      type: boolean
+      hidden: true
 - name: strony
   label: Strony Popularyzacji
   description: Adres strony = ścieżka pliku, np. popularyzacja/uczniowie.md → /popularyzacja/uczniowie. Strona z tego katalogu sama dostaje kartę „Dla kogo” na stronie działu; do menu dopisz ją w repozytorium Web-Ustawienia.
