@@ -1,5 +1,6 @@
 ---
 tytul: "Dla nauczycieli"
+opublikowany: true
 haslo: "Seminarium, studia, wyjazdy"
 opis: "Seminarium I³ co wtorek, studia podyplomowe, Poznajemy Matematyczną Europę."
 format_tresci: jawne

@@ -1,5 +1,6 @@
 ---
 tytul: Popularyzacja
+opublikowany: true
 tytul_en: Outreach
 format_tresci: jawne
 tresc_en: |-

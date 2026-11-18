@@ -1,5 +1,6 @@
 ---
 tytul: "Dla wszystkich"
+opublikowany: true
 haslo: "Wykłady, festiwal, zawody"
 opis: "Wrocławskie Spotkania, Dolnośląski Festiwal Nauki, zawody dla dorosłych i rodzin."
 format_tresci: jawne
