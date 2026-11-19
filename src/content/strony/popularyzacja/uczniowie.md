@@ -150,9 +150,9 @@ haslo_en: Circles, camps and competitions
 ---
 <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
-## Matematyczno-Informatyczne Spotkania na Uniwersytecie (MISIU) {#misiu}
+## MISIU {#misiu}
 
-*MISIU* (Matematyczno-Informatyczne Spotkania na Uniwersytecie) to seria wykładów popularyzujących matematykę i informatykę dla uczniów szkół średnich. Spotkanie składa się z dwóch wykładów - z matematyki oraz z informatyki. Każdy z nich trwa 45 minut. Zainteresowane szkoły zapraszamy do kontaktu: promocja [ at ] cs.uni.wroc.pl. Informacja o najbliższych spotkaniach znajduje się na [stronie MISIU](https://studia-wmi.uwr.edu.pl/misiu/).
+*Matematyczno-Informatyczne Spotkania na Uniwersytecie* (MISIU) to seria wykładów popularyzujących matematykę i informatykę dla uczniów szkół średnich. Spotkanie składa się z dwóch wykładów - z matematyki oraz z informatyki. Każdy z nich trwa 45 minut. Zainteresowane szkoły zapraszamy do kontaktu: promocja [ at ] cs.uni.wroc.pl. Informacja o najbliższych spotkaniach znajduje się na [stronie MISIU](https://studia-wmi.uwr.edu.pl/misiu/).
 
 
 
