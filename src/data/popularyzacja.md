@@ -144,13 +144,14 @@ linki:
 ---
 <!-- Zwykłe akapity Markdown. Pierwszy akapit wyróżnia szablon strony. -->
 
-Ktoś spytał kiedyś Hugona Steinhausa, czym właściwie zajmują się matematycy. Steinhaus zaczął tłumaczyć rysując patykiem krzywe na alejce w parku. Z tej rozmowy wyrósł ["Kalejdoskop 
-matematyczny"](https://pl.wikipedia.org/wiki/Kalejdoskop_matematyczny), klasyczna i znana na całym świecie książka
-popularyzująca matematykę.
+Ktoś spytał kiedyś Hugona Steinhausa, czym właściwie zajmują się matematycy. Steinhaus zaczął odpowiadać rysując patykiem krzywe na alejce w parku. To ta rozmowa była zaczynem ["Kalejdoskopu
+matematycznego"](https://pl.wikipedia.org/wiki/Kalejdoskop_matematyczny), klasycznej i znanej na całym świecie książki
+popularyzującej matematykę.
 
-Matematycy z Instytutu wciąż starają tak opowiadać o matematyce — zarówno w salach wykładowych, jak i na obozach.
+Staramy się podążać ścieżką wytyczoną przez Steinhausa i opowiadać o matematyce w sposób przystępny — w salach wykładowych, na obozach dla młodzieży, a czasem w dość niestandardowych miejscach.
 
 Zapraszamy do zapoznania się z naszą ofertą.
+
 
 
 <!--
