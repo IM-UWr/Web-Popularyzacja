@@ -150,29 +150,40 @@ popularyzującej matematykę.
 Staramy się podążać ścieżką wytyczoną przez Steinhausa i opowiadać o matematyce w sposób przystępny — w salach wykładowych, na obozach dla młodzieży, a czasem w dość niestandardowych miejscach.
 Zapraszamy do zapoznania się z naszą ofertą:
 
+
+<!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
 
 - **Dla uczniów**
 
   Wykłady, konkursy, kółka, obozy.
 
-  
+  Kiedy: zima
+
+  [Zimowe Szkoły](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/zimowa-szko%C5%82a-matematyki/zimowe-szko%C5%82y-matematyki)
+
 - **Dla nauczycieli**
 
-  Seminaria, kursy, szkolenia.
+  Seminaria, szkolenia, konferencje.
 
+  Kiedy: czerwiec
 
-- **Dla wszystkich**
-
-  Wykłady popularno-naukowe, konkursy.
-
+  [Letni Obóz](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/letni-ob%C3%B3z-naukowy/letni-ob%C3%B3z-naukowy)
 
 - **Dla wszystkich**
 
-  Wykłady popularno-naukowe, konkursy.
+  Wykłady popularnonaukowe, konkursy.
 
+  Kiedy: listopad, marzec
 
-  
+  [Obóz OMJ](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-omj/ob%C3%B3z-przygotowawczy-do-omj)
+
+- **Partnerzy**
+
+  Fundacja Matematyków Wrocławskich, Wrocławski Portal Matematyczny, Polskie Towarzystwo Matematyczne
+
+  [Obóz OM](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-om/ob%C3%B3z-olimpiady-matematycznej)
+
 :::
 
 
