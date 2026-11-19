@@ -147,10 +147,33 @@ linki:
 Ktoś spytał kiedyś Hugona Steinhausa, czym właściwie zajmują się matematycy. Steinhaus zaczął odpowiadać rysując patykiem krzywe na alejce w parku. To ta rozmowa była zaczynem ["Kalejdoskopu
 matematycznego"](https://pl.wikipedia.org/wiki/Kalejdoskop_matematyczny), klasycznej i znanej na całym świecie książki
 popularyzującej matematykę.
-
 Staramy się podążać ścieżką wytyczoną przez Steinhausa i opowiadać o matematyce w sposób przystępny — w salach wykładowych, na obozach dla młodzieży, a czasem w dość niestandardowych miejscach.
+Zapraszamy do zapoznania się z naszą ofertą:
 
-Zapraszamy do zapoznania się z naszą ofertą.
+:::kafelki
+
+- **Dla uczniów**
+
+  Wykłady, konkursy, kółka, obozy.
+
+  
+- **Dla nauczycieli**
+
+  Seminaria, kursy, szkolenia.
+
+
+- **Dla wszystkich**
+
+  Wykłady popularno-naukowe, konkursy.
+
+
+- **Dla wszystkich**
+
+  Wykłady popularno-naukowe, konkursy.
+
+
+  
+:::
 
 
 
