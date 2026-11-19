@@ -152,35 +152,38 @@ Zapraszamy do zapoznania się z naszą ofertą:
 
 
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+## Obozy {#obozy}
+
+<!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
 
-- **Dla uczniów**
+- **Zimowe Szkoły Matematyki**
 
-  Wykłady, konkursy, kółka, obozy.
+  Odbywają się od 1989 roku. Są przeznaczone dla uczniów szkół średnich z Dolnego Śląska zainteresowanych matematyką.
 
   Kiedy: zima
 
   [Zimowe Szkoły](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/zimowa-szko%C5%82a-matematyki/zimowe-szko%C5%82y-matematyki)
 
-- **Dla nauczycieli**
+- **Letni Obóz Naukowy**
 
-  Seminaria, szkolenia, konferencje.
+  Odbywają się od 2002 roku. Są przeznaczone dla uczniów zainteresowanych matematyków: od czwartej klasy podstawówki do maturzystów.
 
   Kiedy: czerwiec
 
   [Letni Obóz](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/letni-ob%C3%B3z-naukowy/letni-ob%C3%B3z-naukowy)
 
-- **Dla wszystkich**
+- **Obóz przygotowawczy do Olimpiady Matematycznej Juniorów**
 
-  Wykłady popularnonaukowe, konkursy.
+  Dla uczniów siódmych i ósmych klas, w listopadzie i marcu (w tym drugim terminie dla finalistów OMJ).
 
   Kiedy: listopad, marzec
 
   [Obóz OMJ](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-omj/ob%C3%B3z-przygotowawczy-do-omj)
 
-- **Partnerzy**
+- **Obóz Olimpiady Matematycznej**
 
-  Fundacja Matematyków Wrocławskich, Wrocławski Portal Matematyczny, Polskie Towarzystwo Matematyczne
+  Dla licealistów przygotowujących się do Olimpiady Matematycznej.
 
   [Obóz OM](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-om/ob%C3%B3z-olimpiady-matematycznej)
 
