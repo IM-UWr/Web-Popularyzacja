@@ -152,9 +152,6 @@ Zapraszamy do zapoznania się z naszą ofertą:
 
 
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
-## Obozy {#obozy}
-
-<!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
 
 - **Zimowe Szkoły Matematyki**
