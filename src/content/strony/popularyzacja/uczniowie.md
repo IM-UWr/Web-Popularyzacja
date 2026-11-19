@@ -150,20 +150,22 @@ haslo_en: Circles, camps and competitions
 ---
 <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
-## Matematyka po lekcjach {#matematyka-po-lekcjach}
+## Matematyczno-Informatyczne Spotkania na Uniwersytecie (MISIU) {#misiu}
 
-W soboty na kółkach, zimą i latem na obozach, kilka razy w roku na zawodach. Zajęcia prowadzą studenci, doktoranci i pracownicy Instytutu razem z Fundacją Matematyków Wrocławskich.
+*MISIU* (Matematyczno-Informatyczne Spotkania na Uniwersytecie) to seria wykładów popularyzujących matematykę i informatykę dla uczniów szkół średnich. Spotkanie składa się z dwóch wykładów - z matematyki oraz z informatyki. Każdy z nich trwa 45 minut. Zainteresowane szkoły zapraszamy do kontaktu: promocja [ at ] cs.uni.wroc.pl. Informacja o najbliższych spotkaniach znajduje się na [stronie MISIU](https://studia-wmi.uwr.edu.pl/misiu/).
+
+
 
 ## Kółka matematyczne {#kółka-matematyczne}
 
-Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykle co dwa tygodnie, po trzy godziny. Grupy według wieku i poziomu: od 3. klasy szkoły podstawowej do liceum, osobno grupy olimpijskie.
+Międzyszkolne Kółka Matematyczne odbywają się w budynku Instytutu. Przyjmujemy uczniów już od trzeciej klasy szkoły postawowej. Oferujemy wiele grup utworzonych stosownie do wieku i poziomu. 
 
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
 
 - **Szkoła podstawowa**
 
-  Zagadki, gry, pierwsze dowody, a w 7–8 klasie przygotowanie do Olimpiady Matematycznej Juniorów.
+  Zagadki, gry, pierwsze dowody, a od siódmej klasy również przygotowanie do Olimpiady Matematycznej Juniorów.
 
   Klasy: 3–8
 
@@ -190,7 +192,7 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
 
 - **Zimowe Szkoły Matematyki**
 
-  Od 1989 roku, zwykle w drugim tygodniu po feriach zimowych: wyjazd dla uczniów szkół średnich z Dolnego Śląska zainteresowanych matematyką.
+  Odbywają się od 1989 roku. Są przeznaczone dla uczniów szkół średnich z Dolnego Śląska zainteresowanych matematyką.
 
   Kiedy: zima
 
@@ -198,15 +200,15 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
 
 - **Letni Obóz Naukowy**
 
-  Od 2002 roku, na koniec roku szkolnego: od 4. klasy podstawówki do maturzystów.
+  Odbywają się od 2002 roku. Są przeznaczone dla uczniów zainteresowanych matematyków: od czwartej klasy podstawówki do maturzystów.
 
   Kiedy: czerwiec
 
   [Letni Obóz](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/letni-ob%C3%B3z-naukowy/letni-ob%C3%B3z-naukowy)
 
-- **Obóz przygotowawczy do OMJ**
+- **Obóz przygotowawczy do Olimpiady Matematycznej Juniorów**
 
-  Dla uczniów 7–8 klasy: listopad i marzec (dla finalistów).
+  Dla uczniów siódmych i ósmych klas, w listopadzie i marcu (w tym drugim terminie dla finalistów OMJ).
 
   Kiedy: listopad, marzec
 
@@ -224,15 +226,15 @@ Międzyszkolne Kółka Matematyczne spotykają się w Instytucie w soboty, zwykl
 
 | Kiedy | Co | Dla kogo |
 | --- | --- | --- |
-| wrzesień | [Wrocławski Maraton Matematyczny](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) (finał w Instytucie, Dolnośląski Festiwal Nauki) | SP 3 – liceum, też dorośli |
-| wrzesień | [Olimpiada Lingwistyki Matematycznej](https://olm.math.uni.wroc.pl/): etap szkolny | szkoły średnie |
-| początek października | [Matematyczne Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0) | SP 4 – liceum, rodziny |
-| listopad | [Konkurs KOMA](https://fmw.math.uni.wroc.pl/koma/konkurs-matematyczny-koma): zgłoszenia do połowy listopada | SP 3 – liceum |
+| wrzesień | [Wrocławski Maraton Matematyczny](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) (finał w Instytucie, Dolnośląski Festiwal Nauki) | dla wszystkich |
+| wrzesień | [Olimpiada Lingwistyki Matematycznej](https://olm.math.uni.wroc.pl/): etap szkolny | dla szkół średnich |
+| początek października | [Matematyczne Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0) | dla wszystkich |
+| listopad | [Konkurs KOMA](https://fmw.math.uni.wroc.pl/koma/konkurs-matematyczny-koma): zgłoszenia do połowy listopada | dla uczniów |
 | styczeń | [Konkurs lingwistyczny „Wieża Babel”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/lingwistyka-matematyczna/konkursy-z-lingwistyki-matematycznej) | szkoła podstawowa |
-| styczeń – marzec | [Memoriał Urszuli Marciniak](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/memoria%C5%82-urszuli-marciniak/memoria%C5%82-urszuli-marciniak): łamigłówki (finał w marcu) | SP 3 – liceum |
-| styczeń, luty | Zawody II stopnia [OMJ i OM](https://om.mimuw.edu.pl/) w Instytucie | uczestnicy olimpiad |
-| w ciągu roku | [Dolnośląskie Mecze Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/mecze-matematyczne/dolno%C5%9Bl%C4%85skie-mecze-matematyczne) · [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej) · [Origami „Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) · [KoALa](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/koala/konkurs-koala-kombinatoryka-algorytmikalogika) | różne kategorie wiekowe |
-| pierwsza sobota wakacji | [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths): charytatywny konkurs drużynowy w Instytucie | drużyny w każdym wieku |
+| styczeń – marzec | [Memoriał Urszuli Marciniak](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/memoria%C5%82-urszuli-marciniak/memoria%C5%82-urszuli-marciniak): łamigłówki (finał w marcu) | dla uczniów |
+| styczeń, luty | Zawody II stopnia [OMJ i OM](https://om.mimuw.edu.pl/) w Instytucie | dla uczestników olimpiad |
+| w ciągu roku | [Dolnośląskie Mecze Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/mecze-matematyczne/dolno%C5%9Bl%C4%85skie-mecze-matematyczne) · [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej) · [Origami „Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) · [KoALa](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/koala/konkurs-koala-kombinatoryka-algorytmikalogika) | dla wszystkich |
+| pierwsza sobota wakacji | [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths): charytatywny konkurs drużynowy w Instytucie | dla wszystkich |
 
 ## Wykłady: Wrocławskie Spotkania Matematyczne {#wykłady-wrocławskie-spotkania-matematyczne}
 
