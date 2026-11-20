@@ -151,6 +151,13 @@ Staramy się podążać ścieżką wytyczoną przez Steinhausa i opowiadać o ma
 Zapraszamy do zapoznania się z naszą ofertą:
 
 
+:::linki
+
+- [Program Spotkań](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/spotkania-matematyczne/wroc%C5%82awskie-spotkania-matematyczne)
+
+:::
+
+
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
 
