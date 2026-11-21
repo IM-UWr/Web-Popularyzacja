@@ -151,45 +151,34 @@ Staramy się podążać ścieżką wytyczoną przez Steinhausa i opowiadać o ma
 Zapraszamy do zapoznania się z naszą ofertą:
 
 
-:::linki
-
-- [Program Spotkań](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/spotkania-matematyczne/wroc%C5%82awskie-spotkania-matematyczne)
-
-:::
-
-
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
 
-- **Zimowe Szkoły Matematyki**
+- **Dla uczniów**
 
-  Odbywają się od 1989 roku. Są przeznaczone dla uczniów szkół średnich z Dolnego Śląska zainteresowanych matematyką.
+  Wykłady, konkursy, kółka, obozy.
 
-  Kiedy: zima
+  [Dla uczniów od trzeciej klasy podstawówki](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/zimowa-szko%C5%82a-matematyki/zimowe-szko%C5%82y-matematyki)
 
-  [Zimowe Szkoły](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/zimowa-szko%C5%82a-matematyki/zimowe-szko%C5%82y-matematyki)
+- **Dla nauczycieli**
 
-- **Letni Obóz Naukowy**
+  Wykłady, konferencje, szkolenia.
 
-  Odbywają się od 2002 roku. Są przeznaczone dla uczniów zainteresowanych matematyków: od czwartej klasy podstawówki do maturzystów.
+  [Doskonalenie zawodowe, integracja środowiska.](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/letni-ob%C3%B3z-naukowy/letni-ob%C3%B3z-naukowy)
 
-  Kiedy: czerwiec
+- **Dla wszystkich**
 
-  [Letni Obóz](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/letni-ob%C3%B3z-naukowy/letni-ob%C3%B3z-naukowy)
+  Wykłady, konkursy, zadania.
 
-- **Obóz przygotowawczy do Olimpiady Matematycznej Juniorów**
+  
 
-  Dla uczniów siódmych i ósmych klas, w listopadzie i marcu (w tym drugim terminie dla finalistów OMJ).
+  [Dla zainteresowanych matematyką w każdym wieku i każdej profesjii.](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-omj/ob%C3%B3z-przygotowawczy-do-omj)
 
-  Kiedy: listopad, marzec
+- **Partnerzy**
 
-  [Obóz OMJ](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-omj/ob%C3%B3z-przygotowawczy-do-omj)
+  Fundacja Matematyków Wrocławskich
 
-- **Obóz Olimpiady Matematycznej**
-
-  Dla licealistów przygotowujących się do Olimpiady Matematycznej.
-
-  [Obóz OM](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-om/ob%C3%B3z-olimpiady-matematycznej)
+  [Partnerzy](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-om/ob%C3%B3z-olimpiady-matematycznej)
 
 :::
 
