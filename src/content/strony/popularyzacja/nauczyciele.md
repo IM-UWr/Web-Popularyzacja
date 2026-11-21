@@ -1,12 +1,7 @@
 ---
-tytul: "Dla nauczycieli"
+tytul: Dla nauczycieli
+tytul_en: For teachers
 opublikowany: true
-haslo: "Seminarium, studia, wyjazdy"
-opis: "Seminarium I³ co wtorek, studia podyplomowe, Poznajemy Matematyczną Europę."
-format_tresci: jawne
-tytul_en: "For teachers"
-haslo_en: "Seminar, studies, trips"
-opis_en: "The I³ seminar every Tuesday, postgraduate studies, the Poznajemy Matematyczną Europę trips."
 tresc_en: |-
   <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
@@ -114,20 +109,24 @@ tresc_en: |-
   - [Who runs outreach](/popularyzacja/organizatorzy)
 
   :::
+format_tresci: jawne
+opis: Seminarium I³ co wtorek, studia podyplomowe, Poznajemy Matematyczną Europę.
+opis_en: The I³ seminar every Tuesday, postgraduate studies, the Poznajemy
+  Matematyczną Europę trips.
+haslo: Seminarium, studia, wyjazdy
+haslo_en: Seminar, studies, trips
 ---
-
 <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
-## Dla nauczycieli matematyki {#dla-nauczycieli-matematyki}
+## Oferta Fundacji Matematyków Wrocławskich dla nauczycieli {#dla-nauczycieli-matematyki}
 
-Seminarium co tydzień, studia podyplomowe, wyjazdy i kursy — a do tego zajęcia, konkursy i obozy, na które warto wysłać uczniów albo przyjść z całą klasą.
 
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
 
 - **Seminarium I³**
 
-  Inspiracja, Indywidualizacja, Interdyscyplinarność: spotkania nauczycieli szkół podstawowych i średnich, w Instytucie od 2004 roku. Raz w semestrze posiedzenie wyjazdowe.
+  Inspiracja, Indywidualizacja, Interdyscyplinarność: spotkania nauczycieli szkół podstawowych i średnich, organizowane od 2004 roku. 
 
   Kiedy: wtorki, 17:00–18:30
 
@@ -147,7 +146,7 @@ Seminarium co tydzień, studia podyplomowe, wyjazdy i kursy — a do tego zajęc
 
 - **Poznajemy Matematyczną Europę**
 
-  Od 2008 roku wyjazdy dla nauczycieli z dolnośląskich szkół, śladami matematyki w Polsce i za granicą.
+  Regularne wyjazdy dla nauczycieli z dolnośląskich szkół śladami matematyków i matematyki. W Polsce i zagranicą, czasami zresztą całkiem egzotyczną.
 
   Kiedy: weekendy, ferie, wakacje
 
@@ -155,7 +154,7 @@ Seminarium co tydzień, studia podyplomowe, wyjazdy i kursy — a do tego zajęc
 
 - **Kursy i szkolenia**
 
-  Kursy Fundacji, np. o specyficznych trudnościach w uczeniu się matematyki (dyskalkulia), gdy zbierze się grupa.
+  Różnorakie kursy Fundacji Matematyków Wrocławskich, np. poświęcone trudnościom w uczeniu się matematyki.
 
   Kiedy: według naboru
 
@@ -163,12 +162,19 @@ Seminarium co tydzień, studia podyplomowe, wyjazdy i kursy — a do tego zajęc
 
 :::
 
+
+## Dolnośląski Kongres Nauczycieli Matematyki {#dokonomat}
+
+Od pewnego czasu organizujemy Dolnośląskie Kongresy Nauczycieli Matematyki, jednodniowe konferencje dla nauczycieli matematyki szkół średnich z Dolnego Śląska (i okolic). Nasi pracownicy prowadzą na nich wykłady i warsztaty, w tym z użycia metod sztucznej inteligencji w pracy nauczyciela. Mają też one na celu integrację środowiska, a częstym gościem jest Dolnośląska Kurator Oświaty. 
+
+[Dolnośląski Kongres Nauczycieli Matematyki](https://dokonamat2.math.uni.wroc.pl/)
+
 ## Rok szkolny nauczyciela matematyki {#rok-szkolny-nauczyciela-matematyki}
 
 | Kiedy | Co | Dla kogo |
 | --- | --- | --- |
-| co wtorek | [Seminarium I³](https://fmw.math.uni.wroc.pl/dla-nauczycieli/seminarium-i3/seminarium-dla-nauczycieli-i3) w Instytucie | nauczyciele |
-| wrzesień | [Dolnośląski Festiwal Nauki](http://www.festiwal.wroc.pl): wykłady i warsztaty, także dla klas | z klasą |
+| co wtorek | [Seminarium I³](https://fmw.math.uni.wroc.pl/dla-nauczycieli/seminarium-i3/seminarium-dla-nauczycieli-i3) w Instytucie | dla nauczycieli |
+| wrzesień | [Dolnośląski Festiwal Nauki](http://www.festiwal.wroc.pl): wykłady i warsztaty, także dla klas | dla nauczycieli i uczniów |
 | początek października | [Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0): kategoria „nauczyciele i rodziny” | nauczyciele, rodziny |
 | jesień | zgłoszenia szkół do [konkursu KOMA](https://fmw.math.uni.wroc.pl/koma/konkurs-matematyczny-koma) i [Maratonu](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) | z uczniami |
 | w roku szkolnym | [Wrocławskie Spotkania Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/spotkania-matematyczne/wroc%C5%82awskie-spotkania-matematyczne), najczęściej w soboty | z klasą |
@@ -182,7 +188,7 @@ Seminarium co tydzień, studia podyplomowe, wyjazdy i kursy — a do tego zajęc
 
 - **Kółka matematyczne**
 
-  W soboty, od 3. klasy szkoły podstawowej, z grupami olimpijskimi.
+  Dla uczniów od trzeciej klasy szkoły podstawowej, grupy o różnym stopniu zaawansowania (do olimpijskich).
 
   [Kółka](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/k%C3%B3%C5%82ka-matematyczne/mi%C4%99dzyszkolne-k%C3%B3%C5%82ka-matematyczne)
 
@@ -219,6 +225,5 @@ Pracownia Dydaktyki i Popularyzacji Matematyki kształci studentów na specjalno
 :::linki
 
 - [Specjalność nauczycielska](/studia/matematyka/matematyka-nauczycielska)
-- [Kto prowadzi popularyzację](/popularyzacja/organizatorzy)
 
 :::
