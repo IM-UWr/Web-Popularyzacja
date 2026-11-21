@@ -154,6 +154,47 @@ haslo_en: Circles, camps and competitions
 
 *Matematyczno-Informatyczne Spotkania na Uniwersytecie* (MISIU) to seria wykładów popularyzujących matematykę i informatykę dla uczniów szkół średnich. Spotkanie składa się z dwóch wykładów - z matematyki oraz z informatyki. Każdy z nich trwa 45 minut. Zainteresowane szkoły zapraszamy do kontaktu: promocja [ at ] cs.uni.wroc.pl. Informacja o najbliższych spotkaniach znajduje się na [stronie MISIU](https://studia-wmi.uwr.edu.pl/misiu/).
 
+## Konkursy {#konkursy}
+
+<!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+:::kafelki
+
+
+- **Olimpiada Lingwistyki Matematycznej**
+
+  W tej olimpiadze trzeba łączyć zdolności matematyczne z językowymi. Laureaci mają szansę wziąć udział w finale Międzynarodowej Olimpiady Lingwistycznej.
+
+  Kiedy: cały rok
+
+  [Informacje](https://olm.math.uni.wroc.pl/)
+
+- **Olimpiada Sztucznej Inteligencji**
+
+  To nowa olimpiada, którą organizujemy z Uniwerystetem Jagiellońskim, Uniwersytetem im. Adama Mickiewicza i Uniwersytetem Warszawskim.
+
+  Kiedy: cały rok
+
+  [Informacje](https://www.oai.edu.pl/)
+
+
+- **Dolnośląskie Mecze Matematyczne**
+
+  W meczach występują reprezentacje szkół podstawowych z Dolnego Śląska. Mecze są nie tylko ciekawym konkursem, ale niezwykłą okazją do uczenia się matematyki, rozwijania umiejętności argumentowania, prezentowania rozwiązań i uważnego śledzenia rozumowań
+
+  Kiedy: cały rok
+
+  [Informacje i zapisy](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/mecze-matematyczne/dolno%C5%9Bl%C4%85skie-mecze-matematyczne)
+
+- **Wrocławski Maraton Matematyczny**
+
+  Maraton polega na rozwiązywaniu zadań... do upadłego. Niektóre edycje trwają kilkanaście godzin - aż na polu bitwy zostanie tylko jeden zawodnik.
+
+  Kiedy: we wrześniu podczas Dolnośląskiego Festiwalu Nauki.
+
+  [Informacje](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny)
+
+
+:::
 
 
 ## Kółka matematyczne {#kółka-matematyczne}
