@@ -158,7 +158,7 @@ Zapraszamy do zapoznania się z naszą ofertą:
 
   Wykłady, konkursy, kółka, obozy.
 
-  [Dla uczniów od trzeciej klasy podstawówki](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/zimowa-szko%C5%82a-matematyki/zimowe-szko%C5%82y-matematyki)
+  [Dla uczniów od trzeciej klasy podstawówki](/popularyzacja/uczniowie)
 
 - **Dla nauczycieli**
 
