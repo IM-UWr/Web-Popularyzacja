@@ -164,7 +164,7 @@ Zapraszamy do zapoznania się z naszą ofertą:
 
   Nauczycieli zapraszamy na wykłady i szkolenia, a raz do roku na Dolnośląski Kongres Nauczycieli Matematyki.
 
-  [Wykłady, konferencje, szkolenia](/popularyzacja/nauczyciele)
+  [Konferencje, szkolenia, integracja](/popularyzacja/nauczyciele)
 
 - **[Dla wszystkich](/popularyzacja/wszyscy/)**
   
