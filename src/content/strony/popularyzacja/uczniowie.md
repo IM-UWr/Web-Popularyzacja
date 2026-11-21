@@ -194,6 +194,24 @@ haslo_en: Circles, camps and competitions
   [Informacje](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny)
 
 
+- **Konkurs Matematyczny KOMA**
+
+  Jego celem jest kształcenie samodzielności myślenia i działania, rozwijanie umiejętności słuchania ze zrozumieniem, sporządzania notatek, przyswajania nowej wiedzy i wykorzystywania jej na poziomie operacyjnym. 
+
+  Kiedy: eliminacje w grudniu.
+
+  [Informacje i zapisy](https://fmw.math.uni.wroc.pl/koma/konkurs-matematyczny-koma)
+
+- **Wiele, wiele innych**
+
+  Memoriał Urszuli Marciniak, Wieża Babel, Mistrzostwa w Geometrii Elementarnej... 
+
+  Kiedy: cały rok.
+
+  [Więcej informacji](https://fmw.math.uni.wroc.pl/)
+
+
+
 :::
 
 
