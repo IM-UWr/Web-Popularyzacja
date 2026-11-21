@@ -259,7 +259,7 @@ Międzyszkolne Kółka Matematyczne odbywają się w budynku Instytutu. Przyjmuj
 
 - **Letni Obóz Naukowy**
 
-  Odbywają się od 2002 roku. Są przeznaczone dla uczniów zainteresowanych matematyków: od czwartej klasy podstawówki do maturzystów.
+  Odbywają się od 2002 roku. Ddla uczniów zainteresowanych matematyką: od czwartej klasy podstawówki do maturzystów.
 
   Kiedy: czerwiec
 
@@ -317,9 +317,9 @@ Popularne wykłady w Instytucie w roku szkolnym, najczęściej w soboty. Dla ucz
 
 :::
 
+<!--
 ## Jak zacząć {#jak-zacząć}
 
-<!-- Numeruj kroki. Tytuły są pogrubione, a opisy i odnośniki wcięte. -->
 :::etapy
 
 1. **Wybierz**
@@ -338,11 +338,13 @@ Popularne wykłady w Instytucie w roku szkolnym, najczęściej w soboty. Dla ucz
 
 :::
 
-## Dla rodziców {#dla-rodziców}
+-->
+
+## Informacja dla rodziców {#dla-rodziców}
 
 <!-- Tekst w ramce ma etykietę podaną w parametrze tytul. -->
 :::ramka{tytul="Warto wiedzieć"}
 
-Na kółka i obozy nie trzeba mieć olimpijskich wyników — wystarczy ciekawość. Najmłodsze grupy zaczynają od 3. klasy szkoły podstawowej. Zapisy, opłaty i stypendia prowadzi Fundacja Matematyków Wrocławskich.
+Żeby brać udział w naszych inicjatywach nie trzeba być olimpijczykiem — wystarczy ciekawość i zainteresowanie matematyką. 
 
 :::
