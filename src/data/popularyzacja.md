@@ -154,7 +154,7 @@ Zapraszamy do zapoznania się z naszą ofertą:
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
 
-- **Dla uczniów**
+- **[Dla uczniów](/popularyzacja/uczniowie)**
 
   Wykłady, konkursy, kółka, obozy.
 
