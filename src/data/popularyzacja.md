@@ -156,29 +156,27 @@ Zapraszamy do zapoznania się z naszą ofertą:
 
 - **[Dla uczniów](/popularyzacja/uczniowie)**
 
-  Wykłady, konkursy, kółka, obozy.
+  Wraz z Fundacją Matematyków Wrocławskich organizujemy wydarzenia dla uczniów szkół podstawowych (począwszy od trzeciej klasy) i średnich. .
 
-  [Dla uczniów od trzeciej klasy podstawówki](/popularyzacja/uczniowie)
+  [Wykłady, konkursy, kółka, obozy](/popularyzacja/uczniowie)
 
-- **Dla nauczycieli**
+- **[Dla nauczycieli](/popularyzacja/nauczyciele)**
 
-  Wykłady, konferencje, szkolenia.
+  Nauczycieli zapraszamy na wykłady i szkolenia, a raz do roku na Dolnośląski Kongres Nauczycieli Matematyki.
 
-  [Doskonalenie zawodowe, integracja środowiska.](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/letni-ob%C3%B3z-naukowy/letni-ob%C3%B3z-naukowy)
+  [Wykłady, konferencje, szkolenia](/popularyzacja/nauczyciele)
 
-- **Dla wszystkich**
-
-  Wykłady, konkursy, zadania.
-
+- **[Dla wszystkich](/popularyzacja/wszyscy/)**
   
+  Zainteresowanym matematyką w każdym wieku i każdej profesji proponujemy wykłady (również w ramach Dolnośląskiego Festiwalu Nauki) i konkursy.
+  
+  [Wykłady, konkursy, zadania.](/popularyzacja/wszyscy)
 
-  [Dla zainteresowanych matematyką w każdym wieku i każdej profesjii.](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-omj/ob%C3%B3z-przygotowawczy-do-omj)
+- **[Partnerzy](/popularyzacja/organizatorzy/)**
 
-- **Partnerzy**
+  Ściśle współpracujemy z Fundacją Matematyków Wrocławskich, Wrocławskim Portalem Matematycznym i Polskim Towarzystwem Matematycznym.
 
-  Fundacja Matematyków Wrocławskich
-
-  [Partnerzy](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-om/ob%C3%B3z-olimpiady-matematycznej)
+  [O partnerach.](/popularyzacja/organizatorzy/)
 
 :::
 
