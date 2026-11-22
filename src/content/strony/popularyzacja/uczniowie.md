@@ -209,7 +209,7 @@ haslo_en: Circles, camps and competitions
 
 ## MISIU {#misiu}
 
-*Matematyczno-Informatyczne Spotkania na Uniwersytecie* (MISIU) to seria wykładów popularyzujących matematykę i informatykę dla uczniów szkół średnich. Spotkanie składa się z dwóch wykładów - z matematyki oraz z informatyki. Każdy z nich trwa 45 minut. Zainteresowane szkoły zapraszamy do kontaktu: promocja [ at ] cs.uni.wroc.pl. Informacja o najbliższych spotkaniach znajduje się na [stronie MISIU](https://studia-wmi.uwr.edu.pl/misiu/).
+*Matematyczno-Informatyczne Spotkania na Uniwersytecie* (MISIU) to seria wykładów popularyzujących matematykę i informatykę dla uczniów szkół średnich. Spotkanie składa się z dwóch wykładów — z matematyki oraz z informatyki. Każdy z nich trwa 45 minut. Zainteresowane szkoły zapraszamy do kontaktu: promocja [ at ] cs.uni.wroc.pl. Informacja o najbliższych spotkaniach znajduje się na [stronie MISIU](https://studia-wmi.uwr.edu.pl/misiu/).
 
 ## Konkursy {#konkursy}
 
@@ -227,7 +227,7 @@ haslo_en: Circles, camps and competitions
 
 - **Olimpiada Sztucznej Inteligencji**
 
-  To nowa olimpiada, którą organizujemy z Uniwerystetem Jagiellońskim, Uniwersytetem im. Adama Mickiewicza i Uniwersytetem Warszawskim.
+  To nowa olimpiada, którą organizujemy z Uniwersytetem Jagiellońskim, Uniwersytetem im. Adama Mickiewicza i Uniwersytetem Warszawskim.
 
   Kiedy: cały rok
 
@@ -236,7 +236,7 @@ haslo_en: Circles, camps and competitions
 
 - **Dolnośląskie Mecze Matematyczne**
 
-  W meczach występują reprezentacje szkół podstawowych z Dolnego Śląska. Mecze są nie tylko ciekawym konkursem, ale niezwykłą okazją do uczenia się matematyki, rozwijania umiejętności argumentowania, prezentowania rozwiązań i uważnego śledzenia rozumowań
+  W meczach występują reprezentacje szkół podstawowych z Dolnego Śląska. Mecze są nie tylko ciekawym konkursem, ale niezwykłą okazją do uczenia się matematyki, rozwijania umiejętności argumentowania, prezentowania rozwiązań i uważnego śledzenia rozumowań.
 
   Kiedy: cały rok
 
@@ -244,7 +244,7 @@ haslo_en: Circles, camps and competitions
 
 - **Wrocławski Maraton Matematyczny**
 
-  Maraton polega na rozwiązywaniu zadań... do upadłego. Niektóre edycje trwają kilkanaście godzin - aż na polu bitwy zostanie tylko jeden zawodnik.
+  Maraton polega na rozwiązywaniu zadań... do upadłego. Niektóre edycje trwają kilkanaście godzin — aż na polu bitwy zostanie tylko jeden zawodnik.
 
   Kiedy: we wrześniu podczas Dolnośląskiego Festiwalu Nauki.
 
@@ -274,7 +274,7 @@ haslo_en: Circles, camps and competitions
 
 ## Kółka matematyczne {#kółka-matematyczne}
 
-Międzyszkolne Kółka Matematyczne odbywają się w budynku Instytutu. Przyjmujemy uczniów już od trzeciej klasy szkoły postawowej. Oferujemy wiele grup utworzonych stosownie do wieku i poziomu. 
+Międzyszkolne Kółka Matematyczne odbywają się w budynku Instytutu. Przyjmujemy uczniów już od trzeciej klasy szkoły podstawowej. Oferujemy wiele grup utworzonych stosownie do wieku i poziomu. 
 
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
@@ -316,7 +316,7 @@ Międzyszkolne Kółka Matematyczne odbywają się w budynku Instytutu. Przyjmuj
 
 - **Letni Obóz Naukowy**
 
-  Odbywają się od 2002 roku. Ddla uczniów zainteresowanych matematyką: od czwartej klasy podstawówki do maturzystów.
+  Odbywają się od 2002 roku. Dla uczniów zainteresowanych matematyką: od czwartej klasy podstawówki do maturzystów.
 
   Kiedy: czerwiec
 

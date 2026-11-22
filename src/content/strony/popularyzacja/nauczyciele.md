@@ -151,7 +151,7 @@ haslo_en: Seminar, studies, trips
 
 - **Poznajemy Matematyczną Europę**
 
-  Regularne wyjazdy dla nauczycieli z dolnośląskich szkół śladami matematyków i matematyki. W Polsce i zagranicą, czasami zresztą całkiem egzotyczną.
+  Regularne wyjazdy dla nauczycieli z dolnośląskich szkół śladami matematyków i matematyki. W Polsce i za granicą, czasami zresztą całkiem egzotyczną.
 
   Kiedy: weekendy, ferie, wakacje
 

@@ -116,11 +116,7 @@ linki:
 ---
 <!-- Zwykłe akapity Markdown. Pierwszy akapit wyróżnia szablon strony. -->
 
-Ktoś spytał kiedyś Hugona Steinhausa, czym właściwie zajmują się matematycy. Steinhaus zaczął odpowiadać rysując patykiem krzywe na alejce w parku. To ta rozmowa była zaczynem ["Kalejdoskopu
-matematycznego"](https://pl.wikipedia.org/wiki/Kalejdoskop_matematyczny), klasycznej i znanej na całym świecie książki
-popularyzującej matematykę.
-Staramy się podążać ścieżką wytyczoną przez Steinhausa i opowiadać o matematyce w sposób przystępny — w salach wykładowych, na obozach dla młodzieży, a czasem w dość niestandardowych miejscach.
-Zapraszamy do zapoznania się z naszą ofertą:
+Ktoś spytał kiedyś Hugona Steinhausa, czym właściwie zajmują się matematycy. Steinhaus zaczął odpowiadać rysując patykiem krzywe na alejce w parku. To ta rozmowa była zaczynem [„Kalejdoskopu matematycznego”](https://pl.wikipedia.org/wiki/Kalejdoskop_matematyczny), klasycznej i znanej na całym świecie książki popularyzującej matematykę. Staramy się podążać ścieżką wytyczoną przez Steinhausa i opowiadać o matematyce w sposób przystępny — w salach wykładowych, na obozach dla młodzieży, a czasem w dość niestandardowych miejscach. Zapraszamy do zapoznania się z naszą ofertą:
 
 
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
@@ -128,7 +124,7 @@ Zapraszamy do zapoznania się z naszą ofertą:
 
 - **[Dla uczniów](/popularyzacja/uczniowie)**
 
-  Wraz z Fundacją Matematyków Wrocławskich organizujemy wydarzenia dla uczniów szkół podstawowych (począwszy od trzeciej klasy) i średnich. .
+  Wraz z Fundacją Matematyków Wrocławskich organizujemy wydarzenia dla uczniów szkół podstawowych (począwszy od trzeciej klasy) i średnich.
 
   [Wykłady, konkursy, kółka, obozy](/popularyzacja/uczniowie)
 
