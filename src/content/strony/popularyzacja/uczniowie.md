@@ -5,24 +5,79 @@ opublikowany: true
 tresc_en: |-
   <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
-  ## Mathematics after school {#mathematics-after-school}
+  ## MISIU {#misiu}
 
-  On Saturdays at maths circles, in winter and summer at camps, several times a year at competitions. Classes are run by the Institute’s students, doctoral students and staff together with Fundacja Matematyków Wrocławskich (the Wrocław Mathematicians Foundation).
+  *Matematyczno-Informatyczne Spotkania na Uniwersytecie* (MISIU, Mathematics and Computer Science Meetings at the University) is a series of lectures popularising mathematics and computer science for secondary-school students. Each meeting consists of two lectures — one on mathematics and one on computer science — each lasting 45 minutes. Interested schools are welcome to contact us: promocja [ at ] cs.uni.wroc.pl. Information about upcoming meetings is on the [MISIU website](https://studia-wmi.uwr.edu.pl/misiu/) (in Polish).
 
-  ## Regularly: maths circles {#regularly-maths-circles}
+  ## Competitions {#konkursy}
 
-  Międzyszkolne Kółka Matematyczne (inter-school maths circles) meet at the Institute on Saturdays, usually every two weeks, for three hours. Groups are formed by age and level: from year 3 of primary school to secondary school, with separate olympiad groups.
+  <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+  :::kafelki
+
+  - **Olimpiada Lingwistyki Matematycznej (Olympiad in Mathematical Linguistics)**
+
+    This olympiad calls for a combination of mathematical and language skills. Prize-winners have a chance to take part in the final of the International Linguistics Olympiad.
+
+    When: all year
+
+    [Information](https://olm.math.uni.wroc.pl/)
+
+  - **Olimpiada Sztucznej Inteligencji (Artificial Intelligence Olympiad)**
+
+    A new olympiad that we organise together with the Jagiellonian University, Adam Mickiewicz University and the University of Warsaw.
+
+    When: all year
+
+    [Information](https://www.oai.edu.pl/)
+
+  - **Dolnośląskie Mecze Matematyczne (Lower Silesian Maths Matches)**
+
+    The matches are played by teams representing primary schools from Lower Silesia. They are not only an interesting competition but also an exceptional opportunity to learn mathematics and to develop the skills of arguing, presenting solutions and following reasoning carefully.
+
+    When: all year
+
+    [Information and registration](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/mecze-matematyczne/dolno%C5%9Bl%C4%85skie-mecze-matematyczne)
+
+  - **Wrocławski Maraton Matematyczny (Wrocław Mathematical Marathon)**
+
+    The marathon is about solving problems… until you drop. Some editions last over a dozen hours — until only one competitor is left on the battlefield.
+
+    When: in September, during Dolnośląski Festiwal Nauki (the Lower Silesian Science Festival).
+
+    [Information](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny)
+
+  - **Konkurs Matematyczny KOMA (KOMA Mathematics Competition)**
+
+    Its aim is to develop independent thinking and action, listening with understanding, note-taking, and acquiring new knowledge and putting it to practical use.
+
+    When: qualifying round in December.
+
+    [Information and registration](https://fmw.math.uni.wroc.pl/koma/konkurs-matematyczny-koma)
+
+  - **Many, many more**
+
+    Memoriał Urszuli Marciniak (Urszula Marciniak Memorial), Wieża Babel (Tower of Babel), Mistrzostwa w Geometrii Elementarnej (Championship in Elementary Geometry)…
+
+    When: all year.
+
+    [More information](https://fmw.math.uni.wroc.pl/)
+
+  :::
+
+  ## Maths circles {#kółka-matematyczne}
+
+  Międzyszkolne Kółka Matematyczne (inter-school maths circles) take place in the Institute building. We welcome pupils from year 3 of primary school and offer many groups formed according to age and level.
 
   <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
   :::kafelki
 
   - **Primary school**
 
-    Puzzles, games, first proofs, and in years 7–8 preparation for Olimpiada Matematyczna Juniorów (the Junior Mathematical Olympiad).
+    Puzzles, games, first proofs, and from year 7 also preparation for Olimpiada Matematyczna Juniorów (the Junior Mathematical Olympiad).
 
     Years: 3–8
 
-    Where: Institute, pl. Grunwaldzki 2/4
+    Where: Institute, pl. Grunwaldzki 2
 
     [Groups and registration](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/k%C3%B3%C5%82ka-matematyczne/mi%C4%99dzyszkolne-k%C3%B3%C5%82ka-matematyczne)
 
@@ -30,22 +85,22 @@ tresc_en: |-
 
     Olympiad problems and mathematics beyond the syllabus, preparation for Olimpiada Matematyczna (the Mathematical Olympiad).
 
-    Years: general and technical schools
+    Schools: general and technical secondary schools
 
-    Where: Institute, pl. Grunwaldzki 2/4
+    Where: Institute, pl. Grunwaldzki 2
 
     [Groups and registration](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/k%C3%B3%C5%82ka-matematyczne/mi%C4%99dzyszkolne-k%C3%B3%C5%82ka-matematyczne)
 
   :::
 
-  ## Camps {#camps}
+  ## Camps {#obozy}
 
   <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
   :::kafelki
 
   - **Zimowe Szkoły Matematyki (Winter Schools of Mathematics)**
 
-    Since 1989, usually in the second week after the winter school break: a trip for gifted young people, ending with Wielki Test Wiadomości (the Great Knowledge Test).
+    Held since 1989, for secondary-school students from Lower Silesia who are interested in mathematics.
 
     When: winter
 
@@ -53,45 +108,45 @@ tresc_en: |-
 
   - **Letni Obóz Naukowy (Summer Science Camp)**
 
-    Since 2002, at the end of the school year: from year 4 of primary school to school leavers.
+    Held since 2002, for pupils interested in mathematics: from year 4 of primary school to school leavers.
 
     When: June
 
     [Summer Camp](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/letni-ob%C3%B3z-naukowy/letni-ob%C3%B3z-naukowy)
 
-  - **Obóz przygotowawczy do OMJ (Junior Olympiad preparation camp)**
+  - **Preparation camp for Olimpiada Matematyczna Juniorów**
 
-    For pupils in years 7–8: November and March (for finalists).
+    For pupils in years 7 and 8, in November and March (the March camp is for OMJ finalists).
 
     When: November, March
 
     [OMJ camp](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-omj/ob%C3%B3z-przygotowawczy-do-omj)
 
-  - **Obóz Olimpiady Matematycznej (Mathematical Olympiad camp)**
+  - **Mathematical Olympiad camp**
 
-    For secondary school pupils preparing for the Mathematical Olympiad.
+    For secondary-school students preparing for Olimpiada Matematyczna.
 
     [OM camp](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/ob%C3%B3z-om/ob%C3%B3z-olimpiady-matematycznej)
 
   :::
 
-  ## The school year at a glance: competitions {#the-school-year-at-a-glance-competitions}
+  ## The school year at a glance: competitions {#rok-szkolny-w-skrócie-zawody-i-konkursy}
 
   | When | What | Who for |
   | --- | --- | --- |
-  | September | [Wrocławski Maraton Matematyczny](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) (Wrocław Mathematical Marathon; final at the Institute, during the Lower Silesian Science Festival) | primary year 3 to secondary, adults too |
-  | September | [Olimpiada Lingwistyki Matematycznej](https://olm.math.uni.wroc.pl/) (Olympiad in Mathematical Linguistics): school stage | secondary schools |
-  | early October | [Matematyczne Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0) (Mathematical Orienteering Marches) | primary year 4 to secondary, families |
-  | November | [KOMA competition](https://fmw.math.uni.wroc.pl/koma/konkurs-matematyczny-koma): entries until mid-November | primary year 3 to secondary |
-  | January | [„Wieża Babel” linguistics competition](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/lingwistyka-matematyczna/konkursy-z-lingwistyki-matematycznej) (Tower of Babel) | primary school |
-  | January – March | [Memoriał Urszuli Marciniak](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/memoria%C5%82-urszuli-marciniak/memoria%C5%82-urszuli-marciniak) (Urszula Marciniak Memorial): puzzles (final in March) | primary year 3 to secondary |
-  | January, February | Second-stage rounds of [OMJ and OM](https://om.mimuw.edu.pl/) (the Junior and Mathematical Olympiads) at the Institute | olympiad participants |
-  | during the year | [Dolnośląskie Mecze Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/mecze-matematyczne/dolno%C5%9Bl%C4%85skie-mecze-matematyczne) (Lower Silesian Maths Matches) · [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej) (Polish Championship in Elementary Geometry) · [Origami „Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) (“Crane” origami) · [KoALa](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/koala/konkurs-koala-kombinatoryka-algorytmikalogika) | various age categories |
-  | first Saturday of the summer holidays | [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths): charity team competition at the Institute | teams of any age |
+  | September | [Wrocławski Maraton Matematyczny](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) (final at the Institute, Dolnośląski Festiwal Nauki) | for everyone |
+  | September | [Olimpiada Lingwistyki Matematycznej](https://olm.math.uni.wroc.pl/): school stage | for secondary schools |
+  | early October | [Matematyczne Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0) (Mathematical Orienteering Marches) | for everyone |
+  | November | [KOMA competition](https://fmw.math.uni.wroc.pl/koma/konkurs-matematyczny-koma): entries until mid-November | for pupils |
+  | January | [“Wieża Babel” linguistics competition](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/lingwistyka-matematyczna/konkursy-z-lingwistyki-matematycznej) | primary school |
+  | January – March | [Memoriał Urszuli Marciniak](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/memoria%C5%82-urszuli-marciniak/memoria%C5%82-urszuli-marciniak): puzzles (final in March) | for pupils |
+  | January, February | Second-stage rounds of [OMJ and OM](https://om.mimuw.edu.pl/) (the Junior and Mathematical Olympiads) at the Institute | for olympiad participants |
+  | during the year | [Dolnośląskie Mecze Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/mecze-matematyczne/dolno%C5%9Bl%C4%85skie-mecze-matematyczne) · [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej) (Polish Championship in Elementary Geometry) · [Origami “Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) (“Crane” origami) · [KoALa](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/koala/konkurs-koala-kombinatoryka-algorytmikalogika) | for everyone |
+  | first Saturday of the summer holidays | [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths): charity team competition at the Institute | for everyone |
 
-  ## Lectures: Wrocławskie Spotkania Matematyczne {#lectures-wrocławskie-spotkania-matematyczne}
+  ## Lectures: Wrocławskie Spotkania Matematyczne {#wykłady-wrocławskie-spotkania-matematyczne}
 
-  The Wrocław Mathematical Meetings are popular lectures at the Institute during the school year, most often on Saturdays. For pupils, teachers and students.
+  Wrocławskie Spotkania Matematyczne (Wrocław Mathematical Meetings) are popular lectures at the Institute during the school year, most often on Saturdays. For pupils, teachers and students.
 
   <!-- Każdy punkt listy zawiera odnośnik. -->
   :::linki
@@ -100,7 +155,7 @@ tresc_en: |-
 
   :::
 
-  ## For independent work {#for-independent-work}
+  ## For independent work {#do-samodzielnej-pracy}
 
   <!-- Każdy punkt listy zawiera odnośnik. -->
   :::linki
@@ -111,33 +166,35 @@ tresc_en: |-
 
   :::
 
-  ## How to start {#how-to-start}
+  <!--
+  ## Jak zacząć {#jak-zacząć}
 
-  <!-- Numeruj kroki. Tytuły są pogrubione, a opisy i odnośniki wcięte. -->
   :::etapy
 
-  1. **Choose**
+  1. **Wybierz**
 
-     A circle if you want something regular; a competition or a camp if you would rather do it once and do it properly.
+     Kółko, jeśli chcesz regularnie; zawody albo obóz, jeśli wolisz raz, a porządnie.
 
-  2. **Sign up**
+  2. **Zapisz się**
 
-     Registration is on the website of Fundacja Matematyków Wrocławskich; some activities are free, while camps and circles are paid.
+     Zapisy są na stronach Fundacji Matematyków Wrocławskich; część zajęć jest bezpłatna, obozy i kółka są odpłatne.
 
      [Fundacja Matematyków Wrocławskich](https://fmw.math.uni.wroc.pl/)
 
-  3. **Come to the Institute**
+  3. **Przyjdź do Instytutu**
 
-     pl. Grunwaldzki 2/4, Wrocław. Circles, lectures and some competitions take place in the Institute’s rooms.
+     pl. Grunwaldzki 2/4, Wrocław. Kółka, wykłady i część zawodów odbywają się w salach Instytutu.
 
   :::
 
-  ## For parents {#for-parents}
+  -->
+
+  ## Information for parents {#dla-rodziców}
 
   <!-- Tekst w ramce ma etykietę podaną w parametrze tytul. -->
   :::ramka{tytul="Good to know"}
 
-  You don’t need olympiad results to join circles and camps — curiosity is enough. The youngest groups start in year 3 of primary school. Registration, fees and scholarships are handled by Fundacja Matematyków Wrocławskich.
+  You don’t need to be an olympiad contestant to take part in our activities — curiosity and an interest in mathematics are enough.
 
   :::
 format_tresci: jawne

@@ -2,81 +2,53 @@
 tytul: Popularyzacja
 tytul_en: Outreach
 opublikowany: true
-tresc_en: >-
+tresc_en: |-
   <!-- Zwykłe akapity Markdown. Pierwszy akapit wyróżnia szablon strony. -->
 
-
-  Someone once asked Hugo Steinhaus what mathematicians actually do. Steinhaus
-  began to explain, drawing curves with a stick on a path in a park. That
-  conversation eventually gave rise to Mathematical Snapshots, a classic book
-  popularizing mathematics that has become famous around the world.
+  Someone once asked Hugo Steinhaus what mathematicians actually do. Steinhaus began to answer by drawing curves with a stick on a park path. That conversation was the seed of [“Mathematical Snapshots”](https://pl.wikipedia.org/wiki/Kalejdoskop_matematyczny) (in Polish), a classic book popularising mathematics, known all over the world. We try to follow the path set out by Steinhaus and to talk about mathematics in an accessible way — in lecture rooms, at camps for young people, and sometimes in rather unusual places. We invite you to explore what we offer:
 
 
-  Mathematicians at our Institute still strive to share mathematics in the same
-  spirit—both in lecture halls and at mathematics camps.
+  <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+  :::kafelki
 
+  - **[For pupils](/popularyzacja/uczniowie)**
 
-  We invite you to explore what we have to offer.
+    Together with Fundacja Matematyków Wrocławskich (the Wrocław Mathematicians Foundation) we organise events for primary-school pupils (from year 3) and for secondary-school students.
+
+    [Lectures, competitions, circles, camps](/popularyzacja/uczniowie)
+
+  - **[For teachers](/popularyzacja/nauczyciele)**
+
+    We invite teachers to lectures and training sessions, and once a year to Dolnośląski Kongres Nauczycieli Matematyki (the Lower Silesian Congress of Mathematics Teachers).
+
+    [Conferences, training, networking](/popularyzacja/nauczyciele)
+
+  - **[For everyone](/popularyzacja/wszyscy/)**
+
+    For people of any age and any profession who are interested in mathematics, we offer lectures (also as part of Dolnośląski Festiwal Nauki, the Lower Silesian Science Festival) and competitions.
+
+    [Lectures, competitions, problems](/popularyzacja/wszyscy)
+
+  - **[Partners](/popularyzacja/organizatorzy/)**
+
+    We work closely with Fundacja Matematyków Wrocławskich, Wrocławski Portal Matematyczny (the Wrocław Mathematical Portal) and the Polish Mathematical Society.
+
+    [About our partners](/popularyzacja/organizatorzy/)
+
+  :::
+
 
 
   <!--
+  A non-mathematician once asked Hugo Steinhaus what a mathematician actually does all day. Steinhaus picked up a stick and began drawing curves for him on a park path, and from that conversation — as he wrote in the preface — grew “Mathematical Snapshots” (“Kalejdoskop matematyczny”, 1938): a book in which drawings and photographs all but replace proofs, and whose first edition had red-and-green glasses waiting in a pocket for viewing its three-dimensional illustrations. Mathematicians from the Institute and their partners still talk about mathematics this way — in lecture rooms, at camps, and sometimes out in the field with a map and compass.
 
-  A non-mathematician once asked Hugo Steinhaus what a mathematician actually
-  does all day. Steinhaus picked up a stick and began drawing curves for him on
-  a park path, and from that conversation — as he wrote in the preface — grew
-  “Mathematical Snapshots” (“Kalejdoskop matematyczny”, 1938): a book in which
-  drawings and photographs all but replace proofs, and whose first edition had
-  red-and-green glasses waiting in a pocket for viewing its three-dimensional
-  illustrations. Mathematicians from the Institute and their partners still talk
-  about mathematics this way — in lecture rooms, at camps, and sometimes out in
-  the field with a map and compass.
+  The youngest can start with maths circles. The inter-school circles, run by Fundacja Matematyków Wrocławskich (the Wrocław Mathematicians Foundation) together with the Institute, meet on Saturdays, welcome children from the third year of primary school and prepare older pupils for the olympiads. Since 1989 the Institute’s students, doctoral students and staff have run Zimowe Szkoły Matematyki (Winter Schools of Mathematics) — residential camps for gifted young people from Lower Silesia and the Opole region, which end with Wielki Test Wiadomości (the Great Knowledge Test). Since the early 1990s the Institute’s lecture rooms have hosted Wrocławskie Spotkania Matematyczne (Wrocław Mathematical Meetings) — popular lectures during the school year, attended by pupils, teachers and students; similar meetings modelled on them have started in Legnica, Lubin, Wałbrzych and Poznań.
 
+  Mathematics can also be a sport. In Wrocławski Maraton Matematyczny (the Wrocław Mathematical Marathon) play continues until one competitor is left in a category — usually for 11 to 15 hours. In Matematyczne Marsze na Orientację (Mathematical Orienteering Marches), held since 2003, patrols look for checkpoints with a map and compass, and have to locate two of the points themselves by solving a rebus and a geometric construction. There is also a mathematical origami competition and Olimpiada Lingwistyki Matematycznej (the Olympiad in Mathematical Linguistics), in which the rules of unfamiliar languages are worked out by reasoning alone. Adults take part in many of these competitions too, and whole families in the marches.
 
-  The youngest can start with maths circles. The inter-school circles, run by
-  Fundacja Matematyków Wrocławskich (the Wrocław Mathematicians Foundation)
-  together with the Institute, meet on Saturdays, welcome children from the
-  third year of primary school and prepare older pupils for the olympiads. Since
-  1989 the Institute’s students, doctoral students and staff have run Zimowe
-  Szkoły Matematyki (Winter Schools of Mathematics) — residential camps for
-  gifted young people from Lower Silesia and the Opole region, which end with
-  Wielki Test Wiadomości (the Great Knowledge Test). Since the early 1990s the
-  Institute’s lecture rooms have hosted Wrocławskie Spotkania Matematyczne
-  (Wrocław Mathematical Meetings) — popular lectures during the school year,
-  attended by pupils, teachers and students; similar meetings modelled on them
-  have started in Legnica, Lubin, Wałbrzych and Poznań.
+  A large part of this work is aimed at teachers, because they are the ones who show pupils every day what mathematics is. Pracownia Dydaktyki i Popularyzacji Matematyki (the Mathematics Education and Outreach Unit) trains future teachers in the teaching specialisation and supervises their school placements, and practising teachers can gain qualifications through postgraduate studies. Since 2004 the I³ seminar for mathematics teachers — from the words inspiration, individualisation, interdisciplinarity — has met at the Institute, and the Foundation organises or supports courses, training and trips for them.
 
-
-  Mathematics can also be a sport. In Wrocławski Maraton Matematyczny (the
-  Wrocław Mathematical Marathon) play continues until one competitor is left in
-  a category — usually for 11 to 15 hours. In Matematyczne Marsze na Orientację
-  (Mathematical Orienteering Marches), held since 2003, patrols look for
-  checkpoints with a map and compass, and have to locate two of the points
-  themselves by solving a rebus and a geometric construction. There is also a
-  mathematical origami competition and Olimpiada Lingwistyki Matematycznej (the
-  Olympiad in Mathematical Linguistics), in which the rules of unfamiliar
-  languages are worked out by reasoning alone. Adults take part in many of these
-  competitions too, and whole families in the marches.
-
-
-  A large part of this work is aimed at teachers, because they are the ones who
-  show pupils every day what mathematics is. Pracownia Dydaktyki i Popularyzacji
-  Matematyki (the Laboratory of Mathematics Education and Outreach) trains
-  future teachers in the teaching specialisation and supervises their school
-  placements, and practising teachers can gain qualifications through
-  postgraduate studies. Since 2004 the I³ seminar for mathematics teachers —
-  from the words inspiration, individualisation, interdisciplinarity — has met
-  at the Institute, and the Foundation organises or supports courses, training
-  and trips for them.
-
-
-  Where to start? You will find circles, camps, competitions and training on the
-  Foundation’s website, and articles, problem leagues and event announcements on
-  Wrocławski Portal Matematyczny (the Wrocław Mathematical Portal). Students are
-  encouraged to write their own papers by the competition of the Wrocław Branch
-  of the Polish Mathematical Society (PTM), started in 1967 by Józef Łukaszewicz
-  — one of the oldest such competitions in Poland. We invite anyone who wants to
-  find out what a mathematician actually does.
-
+  Where to start? You will find circles, camps, competitions and training on the Foundation’s website, and articles, problem leagues and event announcements on Wrocławski Portal Matematyczny (the Wrocław Mathematical Portal). Students are encouraged to write their own papers by the competition of the Wrocław Branch of the Polish Mathematical Society (PTM), started in 1967 by Józef Łukaszewicz — one of the oldest such competitions in Poland. We invite anyone who wants to find out what a mathematician actually does.
 
   -->
 format_tresci: jawne

@@ -10,7 +10,7 @@ opis_en: "The Wrocławskie Spotkania lectures, the Dolnośląski Festiwal Nauki 
 tresc_en: |-
   <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
-  ## Mathematics without exams {#mathematics-without-exams}
+  ## Mathematics without exams {#matematyka-bez-egzaminów}
 
   Lectures, a festival and competitions for anyone who is curious — at any age, alone, with family or in a team.
 
@@ -49,7 +49,7 @@ tresc_en: |-
 
   :::
 
-  ## The year at a glance {#the-year-at-a-glance}
+  ## The year at a glance {#rok-w-skrócie}
 
   | When | What | Who for |
   | --- | --- | --- |
@@ -59,7 +59,7 @@ tresc_en: |-
   | during the year | [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej) (Polish Championship in Elementary Geometry), [origami „Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) (“Crane” origami) | Open and adult categories |
   | first Saturday of the summer holidays | [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths): charity team competition at the Institute | teams of any age |
 
-  ## Competitions for adults and families {#competitions-for-adults-and-families}
+  ## Competitions for adults and families {#zawody-w-których-startują-dorośli-i-rodziny}
 
   <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
   :::kafelki
@@ -90,7 +90,7 @@ tresc_en: |-
 
   :::
 
-  ## Further reading {#further-reading}
+  ## Further reading {#do-czytania}
 
   <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
   :::kafelki

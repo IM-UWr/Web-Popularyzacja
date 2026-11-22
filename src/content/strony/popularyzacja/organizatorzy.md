@@ -6,15 +6,15 @@ opis: "Fundacja Matematyków Wrocławskich, Portal, PTM i Pracownia Dydaktyki."
 format_tresci: jawne
 tytul_en: "Organisers"
 haslo_en: "Who does it"
-opis_en: "Fundacja Matematyków Wrocławskich, the Portal, the PTM and the Laboratory of Mathematics Education."
+opis_en: "Fundacja Matematyków Wrocławskich, the Portal, the PTM and the Mathematics Education and Outreach Unit."
 tresc_en: |-
   <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
-  ## Who does it {#who-does-it}
+  ## Who does it {#kto-to-robi}
 
   We run outreach at the Institute together with our partners. Each of them has its own website with dates and registration.
 
-  ## Partners {#partners}
+  ## Partners {#partnerzy}
 
   <!-- Każdy punkt ma rolę kursywą, nazwę pogrubioną i własny opis. -->
   :::kontakty
@@ -45,14 +45,14 @@ tresc_en: |-
 
   :::
 
-  ## At the Institute {#at-the-institute}
+  ## At the Institute {#w-instytucie}
 
   <!-- Każdy punkt ma rolę kursywą, nazwę pogrubioną i własny opis. -->
   :::kontakty
 
   - *laboratory*
 
-    **Pracownia Dydaktyki i Popularyzacji Matematyki (Laboratory of Mathematics Education and Outreach)**
+    **Pracownia Dydaktyki i Popularyzacji Matematyki (Mathematics Education and Outreach Unit)**
 
     It trains future teachers and supervises their placements. In practice it links the Institute with the Foundation: it coordinates circles, camps, competitions and the I³ seminar.
 
@@ -60,7 +60,7 @@ tresc_en: |-
 
   :::
 
-  ## Want to help? {#want-to-help}
+  ## Want to help? {#chcesz-pomóc}
 
   Classes at circles and camps are also run by the Institute’s students and doctoral students. If you would like to teach, write to the Foundation.
 ---

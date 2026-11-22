@@ -5,16 +5,15 @@ opublikowany: true
 tresc_en: |-
   <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
-  ## For mathematics teachers {#for-mathematics-teachers}
+  ## What Fundacja Matematyków Wrocławskich offers teachers {#dla-nauczycieli-matematyki}
 
-  A weekly seminar, postgraduate studies, trips and courses — plus classes, competitions and camps worth sending your pupils to or attending with a whole class.
 
   <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
   :::kafelki
 
   - **I³ seminar**
 
-    Inspiration, Individualisation, Interdisciplinarity: meetings of primary and secondary school teachers, at the Institute since 2004. Once a semester the meeting is held off site.
+    Inspiration, Individualisation, Interdisciplinarity: meetings of primary and secondary school teachers, held since 2004.
 
     When: Tuesdays, 17:00–18:30
 
@@ -24,7 +23,7 @@ tresc_en: |-
 
   - **Postgraduate studies “Nauczanie matematyki” (Teaching Mathematics)**
 
-    Qualifying studies run by the Institute: a licence to teach mathematics for graduates of other subjects.
+    A qualification programme run by the Institute: a qualification to teach mathematics for graduates of other programmes.
 
     Admissions: every year, June–October (IRK)
 
@@ -34,7 +33,7 @@ tresc_en: |-
 
   - **Poznajemy Matematyczną Europę (Discovering Mathematical Europe)**
 
-    Since 2008, trips for teachers from Lower Silesian schools, following the traces of mathematics in Poland and abroad.
+    Regular trips for teachers from Lower Silesian schools, following in the footsteps of mathematicians and mathematics — in Poland and abroad, sometimes in quite exotic places.
 
     When: weekends, school breaks, summer holidays
 
@@ -42,7 +41,7 @@ tresc_en: |-
 
   - **Courses and training**
 
-    Courses run by the Foundation, e.g. on specific difficulties in learning mathematics (dyscalculia), when enough people sign up.
+    Various courses run by Fundacja Matematyków Wrocławskich (the Wrocław Mathematicians Foundation), e.g. on difficulties in learning mathematics.
 
     When: depending on enrolment
 
@@ -50,26 +49,33 @@ tresc_en: |-
 
   :::
 
-  ## A mathematics teacher’s school year {#a-mathematics-teachers-school-year}
+
+  ## Dolnośląski Kongres Nauczycieli Matematyki {#dokonomat}
+
+  For some time now we have been organising Dolnośląskie Kongresy Nauczycieli Matematyki (Lower Silesian Congresses of Mathematics Teachers), one-day conferences for secondary-school mathematics teachers from Lower Silesia (and the surrounding area). Our staff give lectures and workshops there, including on using artificial intelligence methods in a teacher’s work. The congresses also aim to bring the teaching community together, and the Lower Silesian Superintendent of Education (Dolnośląska Kurator Oświaty) is a frequent guest.
+
+  [Dolnośląski Kongres Nauczycieli Matematyki](https://dokonamat2.math.uni.wroc.pl/)
+
+  ## A mathematics teacher’s school year {#rok-szkolny-nauczyciela-matematyki}
 
   | When | What | Who for |
   | --- | --- | --- |
-  | every Tuesday | [I³ seminar](https://fmw.math.uni.wroc.pl/dla-nauczycieli/seminarium-i3/seminarium-dla-nauczycieli-i3) at the Institute | teachers |
-  | September | [Dolnośląski Festiwal Nauki](http://www.festiwal.wroc.pl) (Lower Silesian Science Festival): lectures and workshops, also for classes | with a class |
+  | every Tuesday | [I³ seminar](https://fmw.math.uni.wroc.pl/dla-nauczycieli/seminarium-i3/seminarium-dla-nauczycieli-i3) at the Institute | for teachers |
+  | September | [Dolnośląski Festiwal Nauki](http://www.festiwal.wroc.pl) (Lower Silesian Science Festival): lectures and workshops, also for classes | for teachers and pupils |
   | early October | [Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0) (Orienteering Marches): “teachers and families” category | teachers, families |
   | autumn | school entries for the [KOMA competition](https://fmw.math.uni.wroc.pl/koma/konkurs-matematyczny-koma) and the [Maraton](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) (Mathematical Marathon) | with pupils |
   | during the school year | [Wrocławskie Spotkania Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/spotkania-matematyczne/wroc%C5%82awskie-spotkania-matematyczne) (Wrocław Mathematical Meetings), most often on Saturdays | with a class |
   | school breaks, summer holidays | [Poznajemy Matematyczną Europę](https://fmw.math.uni.wroc.pl/dla-nauczycieli/matematyczna-europa/poznajemy-matematyczn%C4%85-europ%C4%99) | teachers |
   | June – October | admissions to [postgraduate studies](https://www.math.uni.wroc.pl/kwalifikacyjne-studia-podyplomowe-nauczanie-matematyki) | applicants |
 
-  ## For your pupils {#for-your-pupils}
+  ## For your pupils {#dla-twoich-uczniów}
 
   <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
   :::kafelki
 
   - **Maths circles**
 
-    On Saturdays, from year 3 of primary school, with olympiad groups.
+    For pupils from year 3 of primary school, in groups at different levels (up to olympiad level).
 
     [Circles](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/k%C3%B3%C5%82ka-matematyczne/mi%C4%99dzyszkolne-k%C3%B3%C5%82ka-matematyczne)
 
@@ -98,15 +104,14 @@ tresc_en: |-
 
   :::
 
-  ## Future teachers {#future-teachers}
+  ## Future teachers {#przyszli-nauczyciele}
 
-  Pracownia Dydaktyki i Popularyzacji Matematyki (the Laboratory of Mathematics Education and Outreach) trains students in the teaching specialisation and supervises their school placements — gladly in cooperation with schools in the region.
+  Pracownia Dydaktyki i Popularyzacji Matematyki (the Mathematics Education and Outreach Unit) trains students in the teaching specialisation and supervises their school placements — gladly in cooperation with schools in the region.
 
   <!-- Każdy punkt listy zawiera odnośnik. -->
   :::linki
 
   - [Teaching specialisation](/studia/matematyka/matematyka-nauczycielska)
-  - [Who runs outreach](/popularyzacja/organizatorzy)
 
   :::
 format_tresci: jawne
