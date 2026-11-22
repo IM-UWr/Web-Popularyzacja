@@ -1,23 +1,26 @@
 ---
-tytul: "Organizatorzy"
+tytul: Organizatorzy
+tytul_en: Organisers
 opublikowany: true
-haslo: "Kto to robi"
-opis: "Fundacja Matematyków Wrocławskich, Portal, PTM i Pracownia Dydaktyki."
-format_tresci: jawne
-tytul_en: "Organisers"
-haslo_en: "Who does it"
-opis_en: "Fundacja Matematyków Wrocławskich, the Portal, the PTM and the Mathematics Education and Outreach Unit."
-tresc_en: |-
-  <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
+tresc_en: >-
+  <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe
+  odnośniki. Znaczniki ::: otaczają specjalne układy. -->
+
 
   ## Who does it {#kto-to-robi}
 
-  We run outreach at the Institute together with our partners. Each of them has its own website with dates and registration.
+
+  We run outreach at the Institute together with our partners. Each of them has
+  its own website with dates and registration.
+
 
   ## Partners {#partnerzy}
 
+
   <!-- Każdy punkt ma rolę kursywą, nazwę pogrubioną i własny opis. -->
+
   :::kontakty
+
 
   - *since 2007*
 
@@ -45,10 +48,14 @@ tresc_en: |-
 
   :::
 
+
   ## At the Institute {#w-instytucie}
 
+
   <!-- Każdy punkt ma rolę kursywą, nazwę pogrubioną i własny opis. -->
+
   :::kontakty
+
 
   - *laboratory*
 
@@ -60,11 +67,19 @@ tresc_en: |-
 
   :::
 
+
   ## Want to help? {#chcesz-pomóc}
 
-  Classes at circles and camps are also run by the Institute’s students and doctoral students. If you would like to teach, write to the Foundation.
----
 
+  Classes at circles and camps are also run by the Institute’s students and
+  doctoral students. If you would like to teach, write to the Foundation.
+format_tresci: jawne
+opis: Fundacja Matematyków Wrocławskich, Portal, PTM i Pracownia Dydaktyki.
+opis_en: Fundacja Matematyków Wrocławskich, the Portal, the PTM and the
+  Mathematics Education and Outreach Unit.
+haslo: Kto to robi
+haslo_en: Who does it
+---
 <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
 ## Kto to robi {#kto-to-robi}
@@ -80,7 +95,7 @@ Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma wła
 
   **Fundacja Matematyków Wrocławskich**
 
-  Kółka, obozy, konkursy, szkolenia i wyjazdy dla nauczycieli, stypendia. Kontynuuje Fundację Stypendialną Matematyków Wrocławskich, działającą od 1993 roku. Siedziba w Instytucie.
+  Fundacja Matematyków Wrocławskich powstała w czerwcu 2007 roku. Jej fundatorem jest ówczesny dziekan Wydziału Matematyki i Informatyki Uniwersytetu Wrocławskiego prof. Tomasz Rolski. FMW kontynuuje działalność Fundacji Stypendialnej Matematyków Wrocławskich z lat 1991-2007. Organizuje kółka, obozy, konkursy, szkolenia i wyjazdy dla nauczycieli.
 
   [fmw.math.uni.wroc.pl](https://fmw.math.uni.wroc.pl/)
 
@@ -88,15 +103,17 @@ Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma wła
 
   **Wrocławski Portal Matematyczny**
 
-  Artykuły, ligi zadaniowe i zapowiedzi wydarzeń.
+  Rozbudowany portal. Artykuły, zarówno na tematy bieżące jak i historyczne, ligi zadaniowe i zapowiedzi wydarzeń.
 
   [matematyka.wroc.pl](https://www.matematyka.wroc.pl/)
 
+<!--
 - *konkurs od 1967*
+-->
 
-  **Wrocławski Oddział PTM**
+  **Wrocławski Oddział Polskiego Towarzystwa Matematycznego**
 
-  Konkurs na prace studenckie, zainicjowany przez Józefa Łukaszewicza, ucznia Steinhausa — jeden z najstarszych w Polsce.
+  Polskie Towarzystwo Matematyczne to stowarzyszenie zrzeszające osoby związane z polską matematyką, założone w 1919 przez matematyków z Warszawy i Lwowa, m.in. Stefana Banacha. Polski oddział organizuje konkurs na prace studenckie z zastosowań matematyki, zainicjowany przez Józefa Łukaszewicza, ucznia Steinhausa — jeden z najstarszych konkursów studenckich w Polsce.
 
   [Konkurs PTM](https://ptm.math.uni.wroc.pl/konkurs/historia-konkursu)
 
