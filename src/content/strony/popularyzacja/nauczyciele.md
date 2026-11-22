@@ -160,14 +160,14 @@ haslo_en: Seminar, studies, trips
 
 ## Dolnośląski Kongres Nauczycieli Matematyki {#dokonomat}
 
-Od pewnego czasu organizujemy Dolnośląskie Kongresy Nauczycieli Matematyki, jednodniowe konferencje dla nauczycieli matematyki szkół średnich z Dolnego Śląska (i okolic). Nasi pracownicy prowadzą na nich wykłady i warsztaty, w tym z użycia metod sztucznej inteligencji w pracy nauczyciela. Mają też one na celu integrację środowiska, a częstym gościem jest Dolnośląska Kurator Oświaty. 
+Od pewnego czasu organizujemy Dolnośląskie Kongresy Nauczycieli Matematyki, jednodniowe konferencje dla nauczycieli matematyki szkół średnich z Dolnego Śląska (i okolic). Nasi pracownicy prowadzą na nich wykłady i warsztaty, w tym z użycia metod sztucznej inteligencji w pracy nauczyciela. Mają też one na celu integrację środowiska. Regularnie goszczą na nich włodarze odpowiedzialni za edukację (kurator, wiceminister). 
 
 [Dolnośląski Kongres Nauczycieli Matematyki](https://dokonamat2.math.uni.wroc.pl/)
 
 
 ## Studia podyplomowe "Nauczanie matematyki"
 
-Kwalifikacyjne Studia Podyplomowe – Nauczanie Matematyki służą przygotowaniu do nauczania matematyki w szkołach podstawowych i ponadpodstawowych. O przyjęcie na studia mogą ubiegać się osoby legitymujące się tytułem zawodowym magistra, które ukończyły studia wyższe w dziedzinie nauk ścisłych i przyrodniczych, bądź inżynieryjno-technicznych.
+Kwalifikacyjne Studia Podyplomowe *Nauczanie Matematyki* służą przygotowaniu do nauczania matematyki w szkołach podstawowych i ponadpodstawowych. O przyjęcie na studia mogą ubiegać się osoby legitymujące się tytułem zawodowym magistra, które ukończyły studia wyższe w dziedzinie nauk ścisłych i przyrodniczych, bądź inżynieryjno-technicznych.
 
 [Więcej informacji](https://www.math.uni.wroc.pl/kwalifikacyjne-studia-podyplomowe-nauczanie-matematyki)
 
@@ -197,13 +197,13 @@ Kwalifikacyjne Studia Podyplomowe – Nauczanie Matematyki służą przygotowani
 
 - **Obozy**
 
-  Zimowe Szkoły Matematyki, Letni Obóz Naukowy, obozy przygotowawcze do OMJ i OM.
+  Zimowe Szkoły Matematyki, Letni Obóz Naukowy, obozy przygotowawcze do Olimpiady Matematycznej Juniorów i Olimpiady Matematycznej.
 
   [Zimowe Szkoły](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/zimowa-szko%C5%82a-matematyki/zimowe-szko%C5%82y-matematyki)
 
 - **Konkursy przez cały rok**
 
-  Od Maratonu we wrześniu po Wings for Maths w wakacje — kalendarz na stronie [„Dla uczniów”](/popularyzacja/uczniowie).
+  Od *Maratonu Matematycznego* we wrześniu po *Wings for Maths* w wakacje. Kalendarz znajdziesz na stronie [„Dla uczniów”](/popularyzacja/uczniowie).
 
 - **Materiały do lekcji**
 
@@ -222,7 +222,7 @@ Kwalifikacyjne Studia Podyplomowe – Nauczanie Matematyki służą przygotowani
 
 ## Przyszli nauczyciele {#przyszli-nauczyciele}
 
-Pracownia Dydaktyki i Popularyzacji Matematyki kształci studentów na specjalności nauczycielskiej i opiekuje się ich praktykami w szkołach we współpracy ze szkołami z regionu.
+Pracownia Dydaktyki i Popularyzacji Matematyki kształci studentów na specjalności nauczycielskiej i organizuje ich praktyki w szkołach we współpracy ze szkołami z regionu.
 
 <!-- Każdy punkt listy zawiera odnośnik. -->
 :::linki
