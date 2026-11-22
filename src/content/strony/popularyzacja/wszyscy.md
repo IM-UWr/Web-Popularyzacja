@@ -161,7 +161,7 @@ Oferujemy wykłady i konkursy dla wszystkich zaintersowanych, w każdym wieku, i
 
 :::
 
-## Zawody, w których startują dorośli i rodziny {#zawody-w-których-startują-dorośli-i-rodziny}
+## Zawody, w których mogą startować dorośli {#zawody-w-których-startują-dorośli-i-rodziny}
 
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
@@ -210,12 +210,18 @@ Oferujemy wykłady i konkursy dla wszystkich zaintersowanych, w każdym wieku, i
 
   [Portal](https://www.matematyka.wroc.pl/)
 
-- **Zbiór zadań Trapez**
+- **Tygodnik matematyczny Trapez (archiwum)**
 
   Autorski tygodnik matematyczny prowadzony w latach 2015-2019 przez Jarosław Wróblewskiego. Pełen intrygujących zadań.
 
   [Trapez](https://www.math.uni.wroc.pl/~jwr/trapez/)
 
+- **Matematyka dla Myślących (archiwum)**
+
+  Archiwum kursu *Matematyka dla Myślących* prowadzonych w Instytucie, podczas którego staraliśmy się przekonać uczestników, że matematyka wcale nie musi być nudna, a jej uczenie się wcale nie polega na odtwarzaniu wyuczonych algorytmów.
+
+  [Matematyka dla Myślących](https://www.math.uni.wroc.pl/matematyka-dla-myslacych)
+  
 :::
 
 
@@ -223,7 +229,7 @@ Oferujemy wykłady i konkursy dla wszystkich zaintersowanych, w każdym wieku, i
 
 | Kiedy | Co | Dla kogo |
 | --- | --- | --- |
-| wrzesień | [Dolnośląski Festiwal Nauki](http://www.festiwal.wroc.pl) i finał [Maratonu Matematycznego](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) | wszyscy; Maraton: też dorośli |
+| wrzesień | [Dolnośląski Festiwal Nauki](http://www.festiwal.wroc.pl) i finał [Maratonu Matematycznego](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) | wszyscy |
 | początek października | [Matematyczne Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0) | kategoria „nauczyciele i rodziny” |
 | w roku szkolnym | [Wrocławskie Spotkania Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/spotkania-matematyczne/wroc%C5%82awskie-spotkania-matematyczne) | wszyscy |
 | w ciągu roku | [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej), [origami „Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) | kategorie Open i dla dorosłych |
