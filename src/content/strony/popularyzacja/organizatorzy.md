@@ -107,9 +107,7 @@ Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma wła
 
   [matematyka.wroc.pl](https://www.matematyka.wroc.pl/)
 
-<!--
 - *konkurs od 1967*
--->
 
   **Wrocławski Oddział Polskiego Towarzystwa Matematycznego**
 
