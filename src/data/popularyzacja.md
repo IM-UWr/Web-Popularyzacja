@@ -2,14 +2,26 @@
 tytul: Popularyzacja
 tytul_en: Outreach
 opublikowany: true
-tresc_en: |-
+tresc_en: >-
   <!-- Zwykłe akapity Markdown. Pierwszy akapit wyróżnia szablon strony. -->
 
-  Someone once asked Hugo Steinhaus what mathematicians actually do. Steinhaus began to answer by drawing curves with a stick on a park path. That conversation was the seed of [“Mathematical Snapshots”](https://pl.wikipedia.org/wiki/Kalejdoskop_matematyczny) (in Polish), a classic book popularising mathematics, known all over the world. We try to follow the path set out by Steinhaus and to talk about mathematics in an accessible way — in lecture rooms, at camps for young people, and sometimes in rather unusual places. We invite you to explore what we offer:
+
+  Someone once asked Hugo Steinhaus what mathematicians actually do. Steinhaus
+  began to answer by drawing curves with a stick on a park path. That
+  conversation was the seed of [“Mathematical
+  Snapshots”](https://pl.wikipedia.org/wiki/Kalejdoskop_matematyczny) (in
+  Polish), a classic book popularising mathematics, known all over the world. We
+  try to follow the path set out by Steinhaus and to talk about mathematics in
+  an accessible way — in lecture rooms, at camps for young people, and sometimes
+  in rather unusual places. We invite you to explore what we offer:
 
 
-  <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
+
+  <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników.
+  -->
+
   :::kafelki
+
 
   - **[For pupils](/popularyzacja/uczniowie)**
 
@@ -39,16 +51,65 @@ tresc_en: |-
 
 
 
+
   <!--
-  A non-mathematician once asked Hugo Steinhaus what a mathematician actually does all day. Steinhaus picked up a stick and began drawing curves for him on a park path, and from that conversation — as he wrote in the preface — grew “Mathematical Snapshots” (“Kalejdoskop matematyczny”, 1938): a book in which drawings and photographs all but replace proofs, and whose first edition had red-and-green glasses waiting in a pocket for viewing its three-dimensional illustrations. Mathematicians from the Institute and their partners still talk about mathematics this way — in lecture rooms, at camps, and sometimes out in the field with a map and compass.
 
-  The youngest can start with maths circles. The inter-school circles, run by Fundacja Matematyków Wrocławskich (the Wrocław Mathematicians Foundation) together with the Institute, meet on Saturdays, welcome children from the third year of primary school and prepare older pupils for the olympiads. Since 1989 the Institute’s students, doctoral students and staff have run Zimowe Szkoły Matematyki (Winter Schools of Mathematics) — residential camps for gifted young people from Lower Silesia and the Opole region, which end with Wielki Test Wiadomości (the Great Knowledge Test). Since the early 1990s the Institute’s lecture rooms have hosted Wrocławskie Spotkania Matematyczne (Wrocław Mathematical Meetings) — popular lectures during the school year, attended by pupils, teachers and students; similar meetings modelled on them have started in Legnica, Lubin, Wałbrzych and Poznań.
+  A non-mathematician once asked Hugo Steinhaus what a mathematician actually
+  does all day. Steinhaus picked up a stick and began drawing curves for him on
+  a park path, and from that conversation — as he wrote in the preface — grew
+  “Mathematical Snapshots” (“Kalejdoskop matematyczny”, 1938): a book in which
+  drawings and photographs all but replace proofs, and whose first edition had
+  red-and-green glasses waiting in a pocket for viewing its three-dimensional
+  illustrations. Mathematicians from the Institute and their partners still talk
+  about mathematics this way — in lecture rooms, at camps, and sometimes out in
+  the field with a map and compass.
 
-  Mathematics can also be a sport. In Wrocławski Maraton Matematyczny (the Wrocław Mathematical Marathon) play continues until one competitor is left in a category — usually for 11 to 15 hours. In Matematyczne Marsze na Orientację (Mathematical Orienteering Marches), held since 2003, patrols look for checkpoints with a map and compass, and have to locate two of the points themselves by solving a rebus and a geometric construction. There is also a mathematical origami competition and Olimpiada Lingwistyki Matematycznej (the Olympiad in Mathematical Linguistics), in which the rules of unfamiliar languages are worked out by reasoning alone. Adults take part in many of these competitions too, and whole families in the marches.
 
-  A large part of this work is aimed at teachers, because they are the ones who show pupils every day what mathematics is. Pracownia Dydaktyki i Popularyzacji Matematyki (the Mathematics Education and Outreach Unit) trains future teachers in the teaching specialisation and supervises their school placements, and practising teachers can gain qualifications through postgraduate studies. Since 2004 the I³ seminar for mathematics teachers — from the words inspiration, individualisation, interdisciplinarity — has met at the Institute, and the Foundation organises or supports courses, training and trips for them.
+  The youngest can start with maths circles. The inter-school circles, run by
+  Fundacja Matematyków Wrocławskich (the Wrocław Mathematicians Foundation)
+  together with the Institute, meet on Saturdays, welcome children from the
+  third year of primary school and prepare older pupils for the olympiads. Since
+  1989 the Institute’s students, doctoral students and staff have run Zimowe
+  Szkoły Matematyki (Winter Schools of Mathematics) — residential camps for
+  gifted young people from Lower Silesia and the Opole region, which end with
+  Wielki Test Wiadomości (the Great Knowledge Test). Since the early 1990s the
+  Institute’s lecture rooms have hosted Wrocławskie Spotkania Matematyczne
+  (Wrocław Mathematical Meetings) — popular lectures during the school year,
+  attended by pupils, teachers and students; similar meetings modelled on them
+  have started in Legnica, Lubin, Wałbrzych and Poznań.
 
-  Where to start? You will find circles, camps, competitions and training on the Foundation’s website, and articles, problem leagues and event announcements on Wrocławski Portal Matematyczny (the Wrocław Mathematical Portal). Students are encouraged to write their own papers by the competition of the Wrocław Branch of the Polish Mathematical Society (PTM), started in 1967 by Józef Łukaszewicz — one of the oldest such competitions in Poland. We invite anyone who wants to find out what a mathematician actually does.
+
+  Mathematics can also be a sport. In Wrocławski Maraton Matematyczny (the
+  Wrocław Mathematical Marathon) play continues until one competitor is left in
+  a category — usually for 11 to 15 hours. In Matematyczne Marsze na Orientację
+  (Mathematical Orienteering Marches), held since 2003, patrols look for
+  checkpoints with a map and compass, and have to locate two of the points
+  themselves by solving a rebus and a geometric construction. There is also a
+  mathematical origami competition and Olimpiada Lingwistyki Matematycznej (the
+  Olympiad in Mathematical Linguistics), in which the rules of unfamiliar
+  languages are worked out by reasoning alone. Adults take part in many of these
+  competitions too, and whole families in the marches.
+
+
+  A large part of this work is aimed at teachers, because they are the ones who
+  show pupils every day what mathematics is. Pracownia Dydaktyki i Popularyzacji
+  Matematyki (the Mathematics Education and Outreach Unit) trains future
+  teachers in the teaching specialisation and supervises their school
+  placements, and practising teachers can gain qualifications through
+  postgraduate studies. Since 2004 the I³ seminar for mathematics teachers —
+  from the words inspiration, individualisation, interdisciplinarity — has met
+  at the Institute, and the Foundation organises or supports courses, training
+  and trips for them.
+
+
+  Where to start? You will find circles, camps, competitions and training on the
+  Foundation’s website, and articles, problem leagues and event announcements on
+  Wrocławski Portal Matematyczny (the Wrocław Mathematical Portal). Students are
+  encouraged to write their own papers by the competition of the Wrocław Branch
+  of the Polish Mathematical Society (PTM), started in 1967 by Józef Łukaszewicz
+  — one of the oldest such competitions in Poland. We invite anyone who wants to
+  find out what a mathematician actually does.
+
 
   -->
 format_tresci: jawne
@@ -60,25 +121,11 @@ wstep_en: Maths circles, camps and competitions for pupils, popular lectures,
 haslo: Matematyka dla ciekawych
 haslo_en: Mathematics for the curious
 o_popularyzacji_fakty:
-  - wartosc: Okulary 3D
-    wartosc_en: 3D glasses
-    opis: w kieszeni pierwszego wydania „Kalejdoskopu matematycznego” Steinhausa
-      (1938), do rysunków przestrzennych
-    opis_en: in a pocket of the first edition of Steinhaus’s “Mathematical
-      Snapshots” (1938), for viewing the three-dimensional drawings
-    pozycja: false
-  - wartosc: Od 3. klasy
-    wartosc_en: From year 3
+  - wartosc: Od trzeciej klasy
+    wartosc_en: From third class
     opis: kółka matematyczne przyjmują dzieci już od trzeciej klasy szkoły
       podstawowej
     opis_en: maths circles welcome children from the third year of primary school
-    pozycja: false
-  - wartosc: 4 miasta
-    wartosc_en: 4 cities
-    opis: Legnica, Lubin, Wałbrzych i Poznań poszły śladem Wrocławskich Spotkań
-      Matematycznych
-    opis_en: Legnica, Lubin, Wałbrzych and Poznań have followed the example of the
-      Wrocław Mathematical Meetings
     pozycja: false
   - wartosc: 11–15 godzin
     wartosc_en: 11–15 hours
@@ -86,6 +133,13 @@ o_popularyzacji_fakty:
       się, aż zostanie jeden zawodnik"
     opis_en: "the usual length of the Wrocław Mathematical Marathon final: play goes
       on until one competitor is left"
+    pozycja: false
+  - wartosc: Od 1991 roku
+    wartosc_en: Since 1991
+    opis: istnieje Fundacja Matematyków Wrocławskich (wcześniej Fundacja
+      Stypendialna Matematyków Wrocławskich)
+    opis_en: " the Wrocław Mathematicians Foundation exists (formerly the Wrocław
+      Mathematicians Scholarship Foundation)"
     pozycja: false
 tradycja:
   - rok: 1989
