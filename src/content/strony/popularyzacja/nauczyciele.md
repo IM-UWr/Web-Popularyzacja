@@ -139,16 +139,6 @@ haslo_en: Seminar, studies, trips
 
   [Seminarium I³](https://fmw.math.uni.wroc.pl/dla-nauczycieli/seminarium-i3/seminarium-dla-nauczycieli-i3)
 
-- **Studia podyplomowe „Nauczanie matematyki”**
-
-  Kwalifikacyjne studia prowadzone przez Instytut: uprawnienia do nauczania matematyki dla absolwentów innych kierunków.
-
-  Nabór: co roku, czerwiec–październik (IRK)
-
-  Gdzie: Instytut
-
-  [Studia podyplomowe](https://www.math.uni.wroc.pl/kwalifikacyjne-studia-podyplomowe-nauczanie-matematyki)
-
 - **Poznajemy Matematyczną Europę**
 
   Regularne wyjazdy dla nauczycieli z dolnośląskich szkół śladami matematyków i matematyki. W Polsce i za granicą, czasami zresztą całkiem egzotyczną.
@@ -174,6 +164,14 @@ Od pewnego czasu organizujemy Dolnośląskie Kongresy Nauczycieli Matematyki, je
 
 [Dolnośląski Kongres Nauczycieli Matematyki](https://dokonamat2.math.uni.wroc.pl/)
 
+
+## Studia podyplomowe "Nauczanie matematyki"
+
+Kwalifikacyjne Studia Podyplomowe – Nauczanie Matematyki służą przygotowaniu do nauczania matematyki w szkołach podstawowych i ponadpodstawowych. O przyjęcie na studia mogą ubiegać się osoby legitymujące się tytułem zawodowym magistra, które ukończyły studia wyższe w dziedzinie nauk ścisłych i przyrodniczych, bądź inżynieryjno-technicznych.
+
+[Więcej informacji](https://www.math.uni.wroc.pl/kwalifikacyjne-studia-podyplomowe-nauczanie-matematyki)
+
+
 ## Rok szkolny nauczyciela matematyki {#rok-szkolny-nauczyciela-matematyki}
 
 | Kiedy | Co | Dla kogo |
@@ -193,7 +191,7 @@ Od pewnego czasu organizujemy Dolnośląskie Kongresy Nauczycieli Matematyki, je
 
 - **Kółka matematyczne**
 
-  Dla uczniów od trzeciej klasy szkoły podstawowej, grupy o różnym stopniu zaawansowania (do olimpijskich).
+  Dla uczniów od trzeciej klasy szkoły podstawowej, grupy o różnym stopniu zaawansowania (również dla olimpijczyków).
 
   [Kółka](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/k%C3%B3%C5%82ka-matematyczne/mi%C4%99dzyszkolne-k%C3%B3%C5%82ka-matematyczne)
 
@@ -205,7 +203,7 @@ Od pewnego czasu organizujemy Dolnośląskie Kongresy Nauczycieli Matematyki, je
 
 - **Konkursy przez cały rok**
 
-  Od Maratonu we wrześniu po Wings for Maths w wakacje — kalendarz na stronie „Dla uczniów”.
+  Od Maratonu we wrześniu po Wings for Maths w wakacje — kalendarz na stronie [„Dla uczniów”](/popularyzacja/uczniowie).
 
 - **Materiały do lekcji**
 
@@ -224,7 +222,7 @@ Od pewnego czasu organizujemy Dolnośląskie Kongresy Nauczycieli Matematyki, je
 
 ## Przyszli nauczyciele {#przyszli-nauczyciele}
 
-Pracownia Dydaktyki i Popularyzacji Matematyki kształci studentów na specjalności nauczycielskiej i opiekuje się ich praktykami w szkołach — chętnie we współpracy ze szkołami z regionu.
+Pracownia Dydaktyki i Popularyzacji Matematyki kształci studentów na specjalności nauczycielskiej i opiekuje się ich praktykami w szkołach we współpracy ze szkołami z regionu.
 
 <!-- Każdy punkt listy zawiera odnośnik. -->
 :::linki
