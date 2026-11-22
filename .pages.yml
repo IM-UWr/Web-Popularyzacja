@@ -2,8 +2,8 @@
 # Wygenerowane przy migracji z Avean/IM-Website-test; pola „Opublikowany” usunięte (bez wersji roboczych).
 # Zlecenie 33: pole „Opublikowane” wróciło w Stronach i na stronie działu (odznaczone = szkic, widoczny tylko na Podglądzie).
 # Zlecenie 40: tytuł EN pod tytułem i Treść na górze, pola EN pod polskimi, etykiety „… EN”, opis wstępu (tylko Google).
-# Media (22.11.2026): tylko własne foldery repozytorium. Na stronie pliki ze wszystkich repozytoriów są we wspólnym /pliki,
-# a ten sam plik w dwóch repozytoriach zatrzymuje budowę; osobne foldery to wykluczają. Pilnuje skrypty/sprawdz_pola_cms.py (Web-Core).
+# Media (22.11.2026): jedno, we własnym folderze repozytorium (podfoldery zakłada redaktor). Na stronie pliki ze wszystkich repozytoriów są we wspólnym /pliki,
+# a ten sam plik w dwóch repozytoriach zatrzymuje budowę; własny folder repozytorium to wyklucza. Pilnuje skrypty/sprawdz_pola_cms.py (Web-Core).
 media:
 - name: popularyzacja
   label: 'Media'
