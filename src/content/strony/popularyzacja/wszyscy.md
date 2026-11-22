@@ -1,12 +1,7 @@
 ---
-tytul: "Dla wszystkich"
+tytul: Dla wszystkich
+tytul_en: For everyone
 opublikowany: true
-haslo: "Wykłady, festiwal, zawody"
-opis: "Wrocławskie Spotkania, Dolnośląski Festiwal Nauki, zawody dla dorosłych i rodzin."
-format_tresci: jawne
-tytul_en: "For everyone"
-haslo_en: "Lectures, festival, competitions"
-opis_en: "The Wrocławskie Spotkania lectures, the Dolnośląski Festiwal Nauki science festival, competitions for adults and families."
 tresc_en: |-
   <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
@@ -113,34 +108,42 @@ tresc_en: |-
   - [Events in the Institute calendar](/kalendarz)
 
   :::
+format_tresci: jawne
+opis: Wrocławskie Spotkania, Dolnośląski Festiwal Nauki, zawody dla dorosłych i
+  rodzin.
+opis_en: The Wrocławskie Spotkania lectures, the Dolnośląski Festiwal Nauki
+  science festival, competitions for adults and families.
+haslo: Wykłady, festiwal, zawody
+haslo_en: Lectures, festival, competitions
 ---
-
 <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
-## Matematyka bez egzaminów {#matematyka-bez-egzaminów}
+## Matematyka dla ciekawych {#matematyka-bez-egzaminów}
 
-Wykłady, festiwal i zawody dla każdego, kto jest ciekawy — w każdym wieku, sam, z rodziną albo z drużyną.
+Oferujemy wykłady i konkursy dla wszystkich zaintersowanych, w każdym wieku, indywidualnie lub z drużyną.
 
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
 :::kafelki
 
 - **Wrocławskie Spotkania Matematyczne**
 
-  Popularne wykłady w Instytucie, najczęściej w soboty. Wykładają pracownicy i doktoranci Instytutu oraz goście z innych uczelni.
+  Wykłady popularyzujące matematykę w Instytucie, odbywające się najczęściej w soboty. Wykładają pracownicy i doktoranci Instytutu oraz goście z innych uczelni.
 
   Kiedy: w roku szkolnym
 
-  Gdzie: Instytut, pl. Grunwaldzki 2/4
+  Gdzie: Instytut
 
   [Program Spotkań](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/spotkania-matematyczne/wroc%C5%82awskie-spotkania-matematyczne)
 
 - **Dolnośląski Festiwal Nauki**
 
-  Co roku we wrześniu wykłady, pokazy i warsztaty, także na Wydziale Matematyki i Informatyki.
+  Co roku we wrześniu wykłady, pokazy i warsztaty.
 
   Kiedy: wrzesień
 
   [Festiwal](http://www.festiwal.wroc.pl)
+
+<!--
 
 - **Wykłady online**
 
@@ -154,17 +157,9 @@ Wykłady, festiwal i zawody dla każdego, kto jest ciekawy — w każdym wieku, 
 
   [Gry miejskie](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/gry-miejskie/matematyczne-gry-miejskie-i-terenowe)
 
+-->
+
 :::
-
-## Rok w skrócie {#rok-w-skrócie}
-
-| Kiedy | Co | Dla kogo |
-| --- | --- | --- |
-| wrzesień | [Dolnośląski Festiwal Nauki](http://www.festiwal.wroc.pl) i finał [Maratonu Matematycznego](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) | wszyscy; Maraton: też dorośli |
-| początek października | [Matematyczne Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0) | kategoria „nauczyciele i rodziny” |
-| w roku szkolnym | [Wrocławskie Spotkania Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/spotkania-matematyczne/wroc%C5%82awskie-spotkania-matematyczne) | wszyscy |
-| w ciągu roku | [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej), [origami „Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) | kategorie Open i dla dorosłych |
-| pierwsza sobota wakacji | [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths): charytatywny konkurs drużynowy w Instytucie | drużyny w każdym wieku |
 
 ## Zawody, w których startują dorośli i rodziny {#zawody-w-których-startują-dorośli-i-rodziny}
 
@@ -173,27 +168,34 @@ Wykłady, festiwal i zawody dla każdego, kto jest ciekawy — w każdym wieku, 
 
 - **Marsze na Orientację**
 
-  Z mapą, kompasem i cyrklem: dwa punkty trzeba wyznaczyć samemu. Bezpłatnie.
+  To klasyczne marsze na orientacje, z mapą i kompasem, wzbogacone dodatkowy element: w trakcie marszu trzeba dodatkowo rozwiązać parę ciekawych zadań matematycznych.
 
   [Marsze](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0)
 
 - **Wings for Maths**
 
-  Drużyny w dowolnym składzie i wieku, w szczytnym celu.
+  *Wings for Maths* (Skrzydła dla Matematyki) to charytatywny konkurs matematyczny rozgrywany od roku 2024 i wzorowany (luźno) na międzynarodowym biegu charytatywnym *Wings for Life*. Odbywa się na zakończenie roku szkolnego.
 
   [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths)
 
 - **Maraton Matematyczny**
 
-  Kategorie „Dorośli profesjonaliści” i „Dorośli amatorzy”; gra trwa, aż zostanie jeden zawodnik.
+  To prawdziwy maraton: trwa aż na polu bitwy zostanie tylko jeden zawodnik. Czasami trwa to kilkanaście godzin. Można wystartować w kategoriach „Dorośli profesjonaliści” i „Dorośli amatorzy”.
 
   [Maraton](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny)
 
-- **Geometria i origami**
+- **Mistrzostwa Polski w Geometrii Elementarnej**
 
-  Kategoria Open w Mistrzostwach Polski w Geometrii Elementarnej i kategorie dorosłych w konkursie „Żuraw”.
+  Jest to jedyny konkurs w swoim rodzaju. Propaguje rozwiązywanie zadań klasycznymi metodami geometrii elementarnej (bez użycia narzędzi analitycznych, wektorowych i trygonometrycznych). Rozwija wyobraźnię geometryczną i myślenie dedukcyjne.
 
   [Geometria Elementarna](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej)
+
+- **Konkurs Matematycznego Origami "Żuraw"**
+
+  To pierwszy konkurs matematycznego origami w Polsce. Jego uczestnikami mogą być uczniowie wszystkich typów szkół, studenci, nauczyciele i rodzice. Celem konkursu jest rozwijanie wyobraźni geometrycznej i wiedzy z geometrii przestrzennej, sprawności manualnej i koncentracji oraz kształtowanie zamiłowania do sztuki origami, jako atrakcyjnej formy spędzania wolnego czasu.
+
+  [Żuraw](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw)
+
 
 :::
 
@@ -208,11 +210,25 @@ Wykłady, festiwal i zawody dla każdego, kto jest ciekawy — w każdym wieku, 
 
   [Portal](https://www.matematyka.wroc.pl/)
 
-- **„Kalejdoskop matematyczny”**
+- **Zbiór zadań Trapez**
 
-  Książka Hugona Steinhausa z 1938 roku, w której rysunki niemal zastępują dowody.
+  Autorski tygodnik matematyczny prowadzony w latach 2015-2019 przez Jarosław Wróblewskiego. Pełen intrygujących zadań.
+
+  [Trapez](https://www.math.uni.wroc.pl/~jwr/trapez/)
 
 :::
+
+
+## Rok w skrócie {#rok-w-skrócie}
+
+| Kiedy | Co | Dla kogo |
+| --- | --- | --- |
+| wrzesień | [Dolnośląski Festiwal Nauki](http://www.festiwal.wroc.pl) i finał [Maratonu Matematycznego](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) | wszyscy; Maraton: też dorośli |
+| początek października | [Matematyczne Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0) | kategoria „nauczyciele i rodziny” |
+| w roku szkolnym | [Wrocławskie Spotkania Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/spotkania-matematyczne/wroc%C5%82awskie-spotkania-matematyczne) | wszyscy |
+| w ciągu roku | [Mistrzostwa Polski w Geometrii Elementarnej](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/geometria-elementarna/mistrzostwa-polski-w-geometrii-elementarnej), [origami „Żuraw”](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw) | kategorie Open i dla dorosłych |
+| pierwsza sobota wakacji | [Wings for Maths](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/wings-maths/wings-maths): charytatywny konkurs drużynowy w Instytucie | drużyny w każdym wieku |
+
 
 <!-- Każdy punkt listy zawiera odnośnik. -->
 :::linki
