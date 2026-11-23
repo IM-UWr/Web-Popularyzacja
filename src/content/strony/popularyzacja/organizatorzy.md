@@ -1,6 +1,6 @@
 ---
-tytul: Organizatorzy
-tytul_en: Organisers
+tytul: Partnerzy
+tytul_en: Partners
 opublikowany: true
 tresc_en: >-
   <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe
@@ -111,6 +111,14 @@ haslo_en: Partners
   Polskie Towarzystwo Matematyczne to stowarzyszenie zrzeszające osoby związane z polską matematyką, założone w 1919 przez matematyków z Warszawy i Lwowa, m.in. Stefana Banacha. Wrocławski oddział od 1967 roku organizuje [konkurs na prace studenckie](https://ptm.math.uni.wroc.pl/konkurs) z zastosowań matematyki, zainicjowany przez Józefa Łukaszewicza, ucznia Steinhausa — jeden z najstarszych konkursów studenckich w Polsce.
 
   [Konkurs PTM](https://ptm.math.uni.wroc.pl/konkurs/historia-konkursu)
+
+- *od 2024*
+
+  **Fundacja Edukacji i Rozwoju Sztucznej Inteligencji**
+
+  Fundacja wspiera uczelnie w popularyzacji i rozwoju sztucznej inteligencji. Została założona w 2024 roku i jest wspólnym przedsięwzięciem środowiska akademickiego związanego z wydziałami matematyki i informatyki uniwersytetów Jagiellońskiego, im. Adama Mickiewicza, Warszawskiego i Wrocławskiego.
+
+  [FERSI](https://www.fersi.org.pl/)
 
 :::
 
