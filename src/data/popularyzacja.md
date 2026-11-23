@@ -141,6 +141,16 @@ o_popularyzacji_fakty:
     opis_en: " the Wrocław Mathematicians Foundation exists (formerly the Wrocław
       Mathematicians Scholarship Foundation)"
     pozycja: false
+  - wartosc: 1191 uczestników
+    wartosc_en: 1191 participants
+    opis: zgromadził Matematyczny Marsz na Orientację w 2015 roku
+    opis_en: took part in the Mathematical Orienteering March in 2015.
+    pozycja: false
+  - wartosc: 4051 uczestników
+    wartosc_en: 4051 participants
+    opis: wzięło udział w Maratonie Matematycznym w 2014 roku
+    opis_en: took part in Mathematical Marathon in 2014.
+    pozycja: false
 tradycja:
   - rok: 1989
     nazwa: Zimowych Szkół
