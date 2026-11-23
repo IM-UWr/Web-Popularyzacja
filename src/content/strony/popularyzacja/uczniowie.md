@@ -218,9 +218,9 @@ haslo_en: Circles, camps and competitions
 
 - **Olimpiada Lingwistyki Matematycznej**
 
-  W tej olimpiadze trzeba łączyć zdolności matematyczne z językowymi. Laureaci mają szansę wziąć udział w finale Międzynarodowej Olimpiady Lingwistycznej.
+  Olimpiada Lingwistyki Matematycznej to wyjątkowy, interdyscyplinarny konkurs, w którym uczniowie rozwiązują problemy językowe, wykorzystując myślenie dedukcyjne. Uczestnicy, analizując wzorce i struktury nieznanych języków, rozwijają zdolności analityczne i umiejętność rozwiązywania złożonych problemów 
 
-  Kiedy: cały rok
+  Kiedy: wrzesień - kwiecień
 
   [Informacje](https://olm.math.uni.wroc.pl/)
 
@@ -235,7 +235,7 @@ haslo_en: Circles, camps and competitions
 
 - **Dolnośląskie Mecze Matematyczne**
 
-  W meczach występują reprezentacje szkół podstawowych z Dolnego Śląska. Mecze są nie tylko ciekawym konkursem, ale niezwykłą okazją do uczenia się matematyki, rozwijania umiejętności argumentowania, prezentowania rozwiązań i uważnego śledzenia rozumowań.
+  W meczach występują reprezentacje szkół podstawowych z Dolnego Śląska. Mecze są nie tylko ciekawym konkursem, ale niezwykłą okazją do  rozwijania umiejętności argumentowania, prezentowania rozwiązań i uważnego śledzenia rozumowań.
 
   Kiedy: cały rok
 
@@ -245,22 +245,22 @@ haslo_en: Circles, camps and competitions
 
   Maraton polega na rozwiązywaniu zadań... do upadłego. Niektóre edycje trwają kilkanaście godzin — aż na polu bitwy zostanie tylko jeden zawodnik.
 
-  Kiedy: we wrześniu podczas Dolnośląskiego Festiwalu Nauki.
+  Kiedy: we wrześniu podczas Dolnośląskiego Festiwalu Nauki
 
   [Informacje](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny)
 
 
 - **Konkurs Matematyczny KOMA**
 
-  Jego celem jest kształcenie samodzielności myślenia i działania, rozwijanie umiejętności słuchania ze zrozumieniem, sporządzania notatek, przyswajania nowej wiedzy i wykorzystywania jej na poziomie operacyjnym. 
+  Jego celem jest rozwijanie umiejętności słuchania ze zrozumieniem, sporządzania notatek, przyswajania nowej wiedzy i wykorzystywania jej na poziomie operacyjnym. 
 
-  Kiedy: eliminacje w grudniu.
+  Kiedy: listopad - grudzień
 
   [Informacje i zapisy](https://fmw.math.uni.wroc.pl/koma/konkurs-matematyczny-koma)
 
 - **Wiele, wiele innych**
 
-  Memoriał Urszuli Marciniak, Wieża Babel, Mistrzostwa w Geometrii Elementarnej... 
+  Memoriał Urszuli Marciniak, Wieża Babel, Mistrzostwa w Geometrii Elementarnej i wiele innych ... 
 
   Kiedy: cały rok.
 
