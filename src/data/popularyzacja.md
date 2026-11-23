@@ -151,6 +151,11 @@ o_popularyzacji_fakty:
     opis: wzięło udział w Maratonie Matematycznym w 2014 roku
     opis_en: took part in Mathematical Marathon in 2014.
     pozycja: false
+  - wartosc: Pies Gringo
+    wartosc_en: Dog called Gringo
+    opis: był jednym ze zwycięzców Matematycznego Marszu na Orientację w 2008 roku.
+    opis_en: was a laureate of Mathematical Orienteering March in 2008
+    pozycja: false
 tradycja:
   - rok: 1989
     nazwa: Zimowych Szkół
