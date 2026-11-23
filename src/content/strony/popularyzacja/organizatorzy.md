@@ -139,4 +139,4 @@ haslo_en: Partners
 
 ## Chcesz pomóc? {#chcesz-pomóc}
 
-Konkursy, kółka i obozy organizują nie tylko pracownicy Instytutu, ale także studenci, doktoranci i osoby spoza. Jeśli interesuje Cię popularyzacja matematyki i chciałbyś nam pomóc — napisz do [Fundacji Matematyków Wrocławskich](https://fmw.math.uni.wroc.pl/).
+Konkursy, kółka i obozy organizują nie tylko pracownicy Instytutu, ale także studenci, doktoranci i osoby spoza. Jeśli interesuje Cię popularyzacja matematyki i chciałbyś nam pomóc jako wolontariusz, napisz do [Fundacji Matematyków Wrocławskich](fwm@math.uni.wroc.pl).
