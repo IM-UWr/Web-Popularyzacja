@@ -110,7 +110,7 @@ haslo_en: Partners
 
   Polskie Towarzystwo Matematyczne to stowarzyszenie zrzeszające osoby związane z polską matematyką, założone w 1919 przez matematyków z Warszawy i Lwowa, m.in. Stefana Banacha. Wrocławski oddział od 1967 roku organizuje [konkurs na prace studenckie](https://ptm.math.uni.wroc.pl/konkurs) z zastosowań matematyki, zainicjowany przez Józefa Łukaszewicza, ucznia Steinhausa — jeden z najstarszych konkursów studenckich w Polsce.
 
-  [Konkurs PTM](https://ptm.math.uni.wroc.pl/konkurs/historia-konkursu)
+  [Konkurs PTM](https://ptm.math.uni.wroc.pl/konkurs/)
 
 - *od 2024*
 
