@@ -104,9 +104,7 @@ haslo_en: Partners
 
   [matematyka.wroc.pl](https://www.matematyka.wroc.pl/)
 
-<!--
 - *konkurs od 1967*
--->
 
   **Wrocławski Oddział Polskiego Towarzystwa Matematycznego**
 
