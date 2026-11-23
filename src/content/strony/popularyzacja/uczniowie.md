@@ -198,8 +198,7 @@ tresc_en: |-
 
   :::
 format_tresci: jawne
-opis: Kółka w soboty od 3. klasy, Zimowe Szkoły i Letni Obóz, kilkanaście
-  konkursów w roku szkolnym.
+opis: Wykłady popularno-naukowe, kółka, obozy, kilkanaście konkursów w roku szkolnym.
 opis_en: Saturday maths circles from year 3, the Zimowe Szkoły and Letni Obóz
   camps, and over a dozen competitions during the school year.
 haslo: Kółka, obozy i zawody
