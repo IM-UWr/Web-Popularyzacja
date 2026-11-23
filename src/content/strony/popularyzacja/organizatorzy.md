@@ -77,16 +77,13 @@ format_tresci: jawne
 opis: Fundacja Matematyków Wrocławskich, Portal, PTM i Pracownia Dydaktyki.
 opis_en: Fundacja Matematyków Wrocławskich, the Portal, the PTM and the
   Mathematics Education and Outreach Unit.
-haslo: Kto to robi
-haslo_en: Who does it
+haslo: Partnerzy
+haslo_en: Partners
 ---
 <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
 
-## Kto to robi {#kto-to-robi}
+## Nasi partnerzy {#partnerzy}
 
-Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma własną stronę z terminami i zapisami.
-
-## Partnerzy {#partnerzy}
 
 <!-- Każdy punkt ma rolę kursywą, nazwę pogrubioną i własny opis. -->
 :::kontakty
@@ -95,7 +92,7 @@ Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma wła
 
   **Fundacja Matematyków Wrocławskich**
 
-  Fundacja Matematyków Wrocławskich powstała w czerwcu 2007 roku. Jej fundatorem jest ówczesny dziekan Wydziału Matematyki i Informatyki Uniwersytetu Wrocławskiego prof. Tomasz Rolski. FMW kontynuuje działalność Fundacji Stypendialnej Matematyków Wrocławskich z lat 1991-2007. Organizuje kółka, obozy, konkursy, szkolenia i wyjazdy dla nauczycieli.
+  Powstała w czerwcu 2007 roku. Jej fundatorem jest ówczesny dziekan Wydziału Matematyki i Informatyki Uniwersytetu Wrocławskiego prof. Tomasz Rolski. FMW kontynuuje działalność Fundacji Stypendialnej Matematyków Wrocławskich z lat 1991-2007. Organizuje kółka, obozy, konkursy, szkolenia i wyjazdy dla nauczycieli.
 
   [fmw.math.uni.wroc.pl](https://fmw.math.uni.wroc.pl/)
 
@@ -103,15 +100,17 @@ Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma wła
 
   **Wrocławski Portal Matematyczny**
 
-  Rozbudowany portal. Artykuły, zarówno na tematy bieżące jak i historyczne, ligi zadaniowe i zapowiedzi wydarzeń.
+  Popularnonaukowy serwis internetowy poświęcony matematyce, zawierający artykuły, ciekawostki, zagadki, materiały edukacyjne oraz informacje o konkursach i innych wydarzeniach związanych z matematyką we Wrocławiu (i nie tylko). Skierowany jest do uczniów, nauczycieli, studentów i wszystkich pasjonatów matematyki.
 
   [matematyka.wroc.pl](https://www.matematyka.wroc.pl/)
 
+<!--
 - *konkurs od 1967*
+-->
 
   **Wrocławski Oddział Polskiego Towarzystwa Matematycznego**
 
-  Polskie Towarzystwo Matematyczne to stowarzyszenie zrzeszające osoby związane z polską matematyką, założone w 1919 przez matematyków z Warszawy i Lwowa, m.in. Stefana Banacha. Polski oddział organizuje konkurs na prace studenckie z zastosowań matematyki, zainicjowany przez Józefa Łukaszewicza, ucznia Steinhausa — jeden z najstarszych konkursów studenckich w Polsce.
+  Polskie Towarzystwo Matematyczne to stowarzyszenie zrzeszające osoby związane z polską matematyką, założone w 1919 przez matematyków z Warszawy i Lwowa, m.in. Stefana Banacha. Wrocławski oddział od 1967 roku organizuje [konkurs na prace studenckie](https://ptm.math.uni.wroc.pl/konkurs) z zastosowań matematyki, zainicjowany przez Józefa Łukaszewicza, ucznia Steinhausa — jeden z najstarszych konkursów studenckich w Polsce.
 
   [Konkurs PTM](https://ptm.math.uni.wroc.pl/konkurs/historia-konkursu)
 
@@ -126,7 +125,7 @@ Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma wła
 
   **Pracownia Dydaktyki i Popularyzacji Matematyki**
 
-  Kształci przyszłych nauczycieli i opiekuje się praktykami. W praktyce łączy Instytut z Fundacją: koordynuje kółka, obozy, konkursy i seminarium I³.
+  Kształci przyszłych nauczycieli i organizuje ich praktyki. 
 
   [Struktura i zakłady →](/instytut/struktura)
 
@@ -134,4 +133,4 @@ Popularyzację w Instytucie prowadzimy razem z partnerami. Każdy z nich ma wła
 
 ## Chcesz pomóc? {#chcesz-pomóc}
 
-Zajęcia na kółkach i obozach prowadzą także studenci i doktoranci Instytutu. Jeśli chcesz uczyć — napisz do Fundacji.
+Konkursy, kółka i obozy organizują nie tylko pracownicy Instytutu, ale także studenci, doktoranci i osoby spoza. Jeśli interesuje Cię popularyzacja matematyki i chciałbyś nam pomóc — napisz do [Fundacji Matematyków Wrocławskich](https://fmw.math.uni.wroc.pl/).
