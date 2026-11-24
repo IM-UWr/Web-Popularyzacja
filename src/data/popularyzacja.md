@@ -193,19 +193,19 @@ Ktoś spytał kiedyś Hugona Steinhausa, czym właściwie zajmują się matematy
 
 - **[Dla uczniów](/popularyzacja/uczniowie)**
 
-  Wraz z Fundacją Matematyków Wrocławskich organizujemy wydarzenia dla uczniów szkół podstawowych (począwszy od trzeciej klasy) i średnich.
+  Wraz z Fundacją Matematyków Wrocławskich organizujemy wydarzenia dla uczniów szkół podstawowych (począwszy od trzeciej klasy) i średnich, m. in. konkursy regionalne i ogólnopolskie, mecze matematyczne, wykłady popularnonaukowe MISIU. Organizujemy też Olimpiadę Sztucznej Inteligencji i Olimpiadę Lingwistyki Matematycznej.
 
   [Wykłady, konkursy, kółka, obozy](/popularyzacja/uczniowie)
 
 - **[Dla nauczycieli](/popularyzacja/nauczyciele)**
 
-  Nauczycieli zapraszamy na wykłady i szkolenia, a raz do roku na Dolnośląski Kongres Nauczycieli Matematyki.
+  Nauczycieli zapraszamy na wykłady i szkolenia, a raz w roku na Dolnośląski Kongres Nauczycieli Matematyki.
 
   [Konferencje, szkolenia, integracja](/popularyzacja/nauczyciele)
 
 - **[Dla wszystkich](/popularyzacja/wszyscy/)**
   
-  Zainteresowanym matematyką w każdym wieku i każdej profesji proponujemy wykłady (również w ramach Dolnośląskiego Festiwalu Nauki) i konkursy.
+  Zainteresowanym matematyką w każdym wieku i każdej profesji proponujemy wykłady, konkursy. Zapraszamy także do odwiedzenia naszych galerii i stałych wystaw, w których prezentowane są prace związane z matematyką i matematykami.
   
   [Wykłady, konkursy, zadania.](/popularyzacja/wszyscy)
 
