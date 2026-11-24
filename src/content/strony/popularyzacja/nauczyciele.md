@@ -133,9 +133,9 @@ haslo_en: Seminar, studies, trips
 
   Inspiracja, Indywidualizacja, Interdyscyplinarność: spotkania nauczycieli szkół podstawowych i średnich, organizowane od 2004 roku. 
 
-  Kiedy: wtorki, 17:00–18:30
+  Kiedy: środy, 17:00–18:30
 
-  Gdzie: Instytut, sala 601
+  Gdzie: Instytut, sala 607
 
   [Seminarium I³](https://fmw.math.uni.wroc.pl/dla-nauczycieli/seminarium-i3/seminarium-dla-nauczycieli-i3)
 
@@ -149,7 +149,8 @@ haslo_en: Seminar, studies, trips
 
 - **Kursy i szkolenia**
 
-  Różnorakie kursy Fundacji Matematyków Wrocławskich, np. poświęcone trudnościom w uczeniu się matematyki.
+  Różnorakie kursy Fundacji Matematyków Wrocławskich, np.  kurs języka angielskiego
+dla nauczycieli matematyki EMT oraz szkolenia na zamówienia szkół i ośrodków metodycznych.
 
   Kiedy: według naboru
 
@@ -179,10 +180,13 @@ Kwalifikacyjne Studia Podyplomowe *Nauczanie Matematyki* służą przygotowaniu 
 | co wtorek | [Seminarium I³](https://fmw.math.uni.wroc.pl/dla-nauczycieli/seminarium-i3/seminarium-dla-nauczycieli-i3) w Instytucie | dla nauczycieli |
 | wrzesień | [Dolnośląski Festiwal Nauki](http://www.festiwal.wroc.pl): wykłady i warsztaty, także dla klas | dla nauczycieli i uczniów |
 | początek października | [Marsze na Orientację](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/marsz-na-orientacj%C4%99/wroc%C5%82awskie-matematyczne-marsze-na-orientacj%C4%99-0): kategoria „nauczyciele i rodziny” | nauczyciele, rodziny |
+| listopad | Konferencja metodyczna w Polanicy-Zdroju | nauczyciele |
 | jesień | zgłoszenia szkół do [konkursu KOMA](https://fmw.math.uni.wroc.pl/koma/konkurs-matematyczny-koma) i [Maratonu](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/maraton-matematyczny/maraton-matematyczny) | z uczniami |
 | w roku szkolnym | [Wrocławskie Spotkania Matematyczne](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/spotkania-matematyczne/wroc%C5%82awskie-spotkania-matematyczne), najczęściej w soboty | z klasą |
+| w roku szkolnym | nabór na szkolenia English for Mathematics Teachers| nauczyciele |
 | ferie, wakacje | [Poznajemy Matematyczną Europę](https://fmw.math.uni.wroc.pl/dla-nauczycieli/matematyczna-europa/poznajemy-matematyczn%C4%85-europ%C4%99) | nauczyciele |
 | czerwiec – październik | nabór na [studia podyplomowe](https://www.math.uni.wroc.pl/kwalifikacyjne-studia-podyplomowe-nauczanie-matematyki) | kandydaci |
+| ferie, wakacje, długie weekendy | [Poznajemy Matematyczną Europę](https://fmw.math.uni.wroc.pl/dla-nauczycieli/matematyczna-europa/poznajemy-matematyczn%C4%85-europ%C4%99) | nauczyciele |
 
 ## Dla Twoich uczniów {#dla-twoich-uczniów}
 
@@ -222,7 +226,9 @@ Kwalifikacyjne Studia Podyplomowe *Nauczanie Matematyki* służą przygotowaniu 
 
 ## Przyszli nauczyciele {#przyszli-nauczyciele}
 
-Pracownia Dydaktyki i Popularyzacji Matematyki kształci studentów na specjalności nauczycielskiej i organizuje ich praktyki w szkołach we współpracy ze szkołami z regionu.
+Pracownia Dydaktyki i Popularyzacji Matematyki kształci studentów na specjalności nauczycielskiej i organizuje ich praktyki w szkołach we współpracy ze szkołami z regionu. Studenci co rok uczestniczą w
+międzynarodowych szkołach dydaktyki matematyki "Quality Class" oraz
+kończą studia doktoranckie z dydaktyki na uczelniach europejskich.
 
 <!-- Każdy punkt listy zawiera odnośnik. -->
 :::linki
