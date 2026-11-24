@@ -199,6 +199,38 @@ Oferujemy wykłady i konkursy dla wszystkich zaintersowanych, w każdym wieku, i
 
 :::
 
+## Galerie {#galerie}
+
+:::kafelki
+
+- **Galerie ŁĄCZNIK**
+
+  Galeria umiejscowiona w łączniku między Instytutem Matematycznym a Instytutem Informatyki zainicjowana przez Krzysztofa Tabisza. Jej kustoszem jest Ewa Martyniszyn z Akademii Sztuk Pięknych. Prezentuje prace pedagogów, studentów i absolwentów ASP we Wrocławiu oraz innych uczelni, a także projekty interdyscyplinarne (np. prace laureatów konkursu Matematyka i Sztuka). Okazjonalnie gości wystawy tematyczne związane z historią Instytutu.
+
+  [Galeria Łącznik](https://wmi.uwr.edu.pl/o-galerii/)
+
+- **Galeria pod Hugonem**
+
+  Galeria przy sali im. Hugona Steinhausa, w której prezentowane są prace konkursowe matematycznego origami.
+
+  [Konkurs Żuraw](https://fmw.math.uni.wroc.pl/dla-uczni%C3%B3w/matorigami-%C5%BCuraw/konkurs-matematycznego-origami-%C5%BCuraw)
+
+- **Wystawa linii rytmicznych Szpakowskiego**
+
+  Stała ekspozycja na poziomie 300 Instytutu Matematycznego, prezentująca prace "linie rytmiczne" Wacława Szpakowskiego, architekta, rysownika i prekursora abstrakcji geometrycznej.  
+
+  [Linie rytmiczne Szpakowskiego](https://wmi.uwr.edu.pl/lista-wystaw/linie-rytmiczne/)
+
+- **Wystawa "Zrób sobie matematyka"**
+
+  Stała ekspozycja na poziomie 400 Instytutu Matematycznego, prezentująca portrety matematyków stworzone przez Tomasza Brodę, wrocławskiego artystę plastyka i karykaturzystę.
+
+  [Linie rytmiczne Szpakowskiego](https://wmi.uwr.edu.pl/lista-wystaw/linie-rytmiczne/)
+
+  
+:::
+
+
 ## Do czytania {#do-czytania}
 
 <!-- Każdy punkt listy to jeden kafelek. Zachowaj wcięcia opisów i odnośników. -->
