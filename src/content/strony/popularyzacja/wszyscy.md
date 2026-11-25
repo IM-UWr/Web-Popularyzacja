@@ -199,7 +199,7 @@ Oferujemy wykłady i konkursy dla wszystkich zaintersowanych, w każdym wieku, i
 
 :::
 
-## Galerie {#galerie}
+## Galerie i wystawy {#galerie}
 
 :::kafelki
 
