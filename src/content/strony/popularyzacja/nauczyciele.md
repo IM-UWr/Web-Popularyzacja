@@ -115,10 +115,11 @@ tresc_en: |-
 
   :::
 format_tresci: jawne
-opis: Seminarium I³ co wtorek, studia podyplomowe, Poznajemy Matematyczną Europę.
+opis: Seminaria, Dolnośląski Kongres Nauczycieli Matematyki, Poznajemy
+  Matematyczną Europę.
 opis_en: The I³ seminar every Tuesday, postgraduate studies, the Poznajemy
   Matematyczną Europę trips.
-haslo: Seminarium, studia, wyjazdy
+haslo: Seminaria, konferencje, wyjazdy
 haslo_en: Seminar, studies, trips
 ---
 <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
