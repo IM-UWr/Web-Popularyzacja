@@ -109,11 +109,11 @@ tresc_en: |-
 
   :::
 format_tresci: jawne
-opis: Wrocławskie Spotkania, Dolnośląski Festiwal Nauki, zawody dla dorosłych i
-  rodzin.
+opis: Wrocławskie Spotkania Matematyczne, galerie i wystawy, zawody dla
+  dorosłych i rodzin.
 opis_en: The Wrocławskie Spotkania lectures, the Dolnośląski Festiwal Nauki
   science festival, competitions for adults and families.
-haslo: Wykłady, festiwal, zawody
+haslo: Wykłady, galerie, zawody
 haslo_en: Lectures, festival, competitions
 ---
 <!-- Zachowaj identyfikatory {#…} przy nagłówkach, aby działały dotychczasowe odnośniki. Znaczniki ::: otaczają specjalne układy. -->
