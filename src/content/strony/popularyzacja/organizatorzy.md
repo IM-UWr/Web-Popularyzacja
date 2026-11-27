@@ -74,7 +74,8 @@ tresc_en: >-
   Classes at circles and camps are also run by the Institute’s students and
   doctoral students. If you would like to teach, write to the Foundation.
 format_tresci: jawne
-opis: Fundacja Matematyków Wrocławskich, Portal, PTM i Pracownia Dydaktyki.
+opis: Fundacja Matematyków Wrocławskich, Wrocławski Portal Matematyczny, Polskie
+  Towarzystwo Matematyczne, Fundacja Edukacji i Rozwoju Sztucznej Inteligencji.
 opis_en: Fundacja Matematyków Wrocławskich, the Portal, the PTM and the
   Mathematics Education and Outreach Unit.
 haslo: Partnerzy
